@@ -1,0 +1,785 @@
+#EXTM3U
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="✦●✦ ULUSAL ✦●✦" tvg-logo="https://i.imgur.com/PwUVpX0.png" group-title="TR ☪ ULUSAL",✦●✦ ULUSAL ✦●✦
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=488700&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="trt4k.tr" tvg-name="TRT 4K UHD 2160p" tvg-logo="https://i.imgur.com/PMwY7gq.png" group-title="TR ☪ ULUSAL",TRT 4K UHD 2160p
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=1841&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="trt4k.tr" tvg-name="TRT 4K FHD" tvg-logo="https://i.imgur.com/GQvmKSx.png" group-title="TR ☪ ULUSAL",TRT 4K FHD
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=1842&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="trt1.tr" tvg-name="TRT 1 FHD" tvg-logo="https://i.imgur.com/EHmGIrf.png" group-title="TR ☪ ULUSAL",TRT 1 FHD
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=1843&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="trt1.tr" tvg-name="TRT 1 HD" tvg-logo="https://i.imgur.com/ZV44YT4.png" group-title="TR ☪ ULUSAL",TRT 1 HD
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=1844&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="trt2.tr" tvg-name="TRT 2 FHD" tvg-logo="https://i.imgur.com/6KPjEaz.png" group-title="TR ☪ ULUSAL",TRT 2 FHD
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=1845&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="trt2.tr" tvg-name="TRT 2 HD" tvg-logo="https://i.imgur.com/B4qHeHi.png" group-title="TR ☪ ULUSAL",TRT 2 HD
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=1846&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="atv.tr" tvg-name="ATV FHD" tvg-logo="https://i.imgur.com/bk3LBX1.png" group-title="TR ☪ ULUSAL",ATV FHD
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=1849&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="atv.tr" tvg-name="ATV HD" tvg-logo="https://i.imgur.com/QhgVCba.png" group-title="TR ☪ ULUSAL",ATV HD
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=1850&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="startv.tr" tvg-name="STAR TV FHD" tvg-logo="https://i.imgur.com/eYE4oGi.png" group-title="TR ☪ ULUSAL",STAR TV FHD
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=1853&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="startv.tr" tvg-name="STAR TV HD" tvg-logo="https://i.imgur.com/PbmcNsf.png" group-title="TR ☪ ULUSAL",STAR TV HD
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=1854&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="showtv.tr" tvg-name="SHOW TV FHD" tvg-logo="https://i.imgur.com/OMhXdB1.png" group-title="TR ☪ ULUSAL",SHOW TV FHD
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=1847&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="showtv.tr" tvg-name="SHOW TV HD" tvg-logo="https://i.imgur.com/wIHL5re.png" group-title="TR ☪ ULUSAL",SHOW TV HD
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=1848&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="kanald.tr" tvg-name="KANAL D FHD" tvg-logo="https://i.imgur.com/aWgetYl.png" group-title="TR ☪ ULUSAL",KANAL D FHD
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=1851&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="kanald.tr" tvg-name="KANAL D HD" tvg-logo="https://i.imgur.com/dNMLueV.png" group-title="TR ☪ ULUSAL",KANAL D HD
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=1852&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="fox.tr" tvg-name="FOX TV FHD" tvg-logo="https://i.imgur.com/m7Fcv2C.png" group-title="TR ☪ ULUSAL",FOX TV FHD
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=1855&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="fox.tr" tvg-name="FOX TV HD" tvg-logo="https://i.imgur.com/4SmzTwv.png" group-title="TR ☪ ULUSAL",FOX TV HD
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=1856&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="tv8.tr" tvg-name="TV 8 FHD" tvg-logo="https://i.imgur.com/xHONuvg.png" group-title="TR ☪ ULUSAL",TV 8 FHD
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=1857&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="tv8.tr" tvg-name="TV 8 HD" tvg-logo="https://i.imgur.com/9DUHFhF.png" group-title="TR ☪ ULUSAL",TV 8 HD
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=1858&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="tv85.tr" tvg-name="TV 8.5 FHD" tvg-logo="https://i.imgur.com/5KPfZe1.png" group-title="TR ☪ ULUSAL",TV 8.5 FHD
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=1859&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="tv85.tr" tvg-name="TV 8.5 HD" tvg-logo="https://i.imgur.com/atuZIlB.png" group-title="TR ☪ ULUSAL",TV 8.5 HD
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=1860&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="beyaztv.tr" tvg-name="BEYAZ TV FHD" tvg-logo="https://i.imgur.com/LmdUjdd.png" group-title="TR ☪ ULUSAL",BEYAZ TV FHD
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=1861&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="beyaztv.tr" tvg-name="BEYAZ TV HD" tvg-logo="https://i.imgur.com/wR1LqeE.png" group-title="TR ☪ ULUSAL",BEYAZ TV HD
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=1862&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="kanal7.tr" tvg-name="KANAL 7 FHD" tvg-logo="https://i.imgur.com/TI76rbN.png" group-title="TR ☪ ULUSAL",KANAL 7 FHD
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=1863&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="kanal7.tr" tvg-name="KANAL 7 HD" tvg-logo="https://i.imgur.com/TUErdKc.png" group-title="TR ☪ ULUSAL",KANAL 7 HD
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=1864&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="kanal7.tr" tvg-name="KANAL 7 AVRUPA FHD" tvg-logo="https://i.imgur.com/TI76rbN.png" group-title="TR ☪ ULUSAL",KANAL 7 AVRUPA FHD
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=1865&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="teve2.tr" tvg-name="TEVE 2 FHD" tvg-logo="https://i.imgur.com/G0FOyJd.png" group-title="TR ☪ ULUSAL",TEVE 2 FHD
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=1866&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="teve2.tr" tvg-name="TEVE 2 HD" tvg-logo="https://i.imgur.com/agBP6KD.png" group-title="TR ☪ ULUSAL",TEVE 2 HD
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=1867&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="a2tv.tr" tvg-name="A2 FHD" tvg-logo="https://i.imgur.com/ThDigHg.png" group-title="TR ☪ ULUSAL",A2 FHD
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=1868&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="a2tv.tr" tvg-name="A2 HD" tvg-logo="https://i.imgur.com/FguCWop.png" group-title="TR ☪ ULUSAL",A2 HD
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=1869&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="360.tr" tvg-name="360 TV FHD" tvg-logo="https://i.imgur.com/4EGuwdR.png" group-title="TR ☪ ULUSAL",360 TV FHD
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=1870&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="360.tr" tvg-name="360 TV HD" tvg-logo="https://i.imgur.com/TTZGZzm.png" group-title="TR ☪ ULUSAL",360 TV HD
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=1871&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TV 4 FHD" tvg-logo="https://i.imgur.com/bFounZf.png" group-title="TR ☪ ULUSAL",TV 4 FHD
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=2168&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TV 4 HD" tvg-logo="https://i.imgur.com/oeW4WD8.png" group-title="TR ☪ ULUSAL",TV 4 HD
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=2167&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="ucankus.tr" tvg-name="UÇANKUŞ TV FHD" tvg-logo="https://i.imgur.com/gbTDQoS.png" group-title="TR ☪ ULUSAL",UÇANKUŞ TV FHD
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=196075&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="ucankus.tr" tvg-name="UÇANKUŞ TV HD" tvg-logo="https://i.imgur.com/r4fyTAH.png" group-title="TR ☪ ULUSAL",UÇANKUŞ TV HD
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=1882&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="trtavaz.tr" tvg-name="TRT AVAZ FHD" tvg-logo="https://i.imgur.com/NYRPzMn.png" group-title="TR ☪ ULUSAL",TRT AVAZ FHD
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=1879&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="trtavaz.tr" tvg-name="TRT AVAZ HD" tvg-logo="https://i.imgur.com/hmpDZXn.png" group-title="TR ☪ ULUSAL",TRT AVAZ HD
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=1880&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="showmax.tr" tvg-name="SHOW MAX FHD" tvg-logo="https://i.imgur.com/ULwufrB.png" group-title="TR ☪ ULUSAL",SHOW MAX FHD
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=1873&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="SHOW TURK FHD" tvg-logo="https://i.imgur.com/dr38Ls8.png" group-title="TR ☪ ULUSAL",SHOW TURK FHD
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=1874&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="atv.tr" tvg-name="ATV AVRUPA" tvg-logo="https://i.imgur.com/C3JgblV.png" group-title="TR ☪ ULUSAL",ATV AVRUPA
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=1875&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="eurotar.tr" tvg-name="EURO STAR" tvg-logo="https://i.imgur.com/OjVGg51.png" group-title="TR ☪ ULUSAL",EURO STAR
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=1876&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="eurod.tr" tvg-name="EURO D" tvg-logo="https://i.imgur.com/bA6C9cd.png" group-title="TR ☪ ULUSAL",EURO D
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=1877&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TV 8 INT" tvg-logo="https://i.imgur.com/hFDmCFJ.png" group-title="TR ☪ ULUSAL",TV 8 INT
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=1883&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="trtturk.tr" tvg-name="TRT TURK HD" tvg-logo="https://i.imgur.com/NyspAfs.png" group-title="TR ☪ ULUSAL",TRT TURK HD
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=1878&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="trtalarabiya.tr" tvg-name="TRT ARABI" tvg-logo="https://i.imgur.com/kNX22De.png" group-title="TR ☪ ULUSAL",TRT ARABI
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=1881&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TIVI TURK HD" tvg-logo="https://i.imgur.com/Gfn21Gr.png" group-title="TR ☪ ULUSAL",TIVI TURK HD
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=67665&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AKILLI TV" tvg-logo="https://i.imgur.com/QW8ioXa.png" group-title="TR ☪ ULUSAL",AKILLI TV
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=1885&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="KIBRIS TV" tvg-logo="https://i.imgur.com/kndMs1c.png" group-title="TR ☪ ULUSAL",KIBRIS TV
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=1886&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="KIBRIS ADA TV" tvg-logo="https://i.imgur.com/hzHe5jc.png" group-title="TR ☪ ULUSAL",KIBRIS ADA TV
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=1887&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="KIBRIS KANAL T" tvg-logo="https://i.imgur.com/CioJ6IK.png" group-title="TR ☪ ULUSAL",KIBRIS KANAL T
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=1888&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="KIBRIS GENC TV" tvg-logo="https://i.imgur.com/SAuIk4L.png" group-title="TR ☪ ULUSAL",KIBRIS GENC TV
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=1889&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="360.tr" tvg-name="KIBRIS TV 2020 HD" tvg-logo="https://i.imgur.com/6y3w8Vm.png" group-title="TR ☪ ULUSAL",KIBRIS TV 2020 HD
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=1892&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="trtebatvilkokul.tr" tvg-name="TRT EBA ILKOKUL" tvg-logo="https://i.imgur.com/asG95gf.png" group-title="TR ☪ ULUSAL",TRT EBA ILKOKUL
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=1893&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="trtebatvortaokul.tr" tvg-name="TRT EBA ORTAOKUL" tvg-logo="https://i.imgur.com/jUf0fbC.png" group-title="TR ☪ ULUSAL",TRT EBA ORTAOKUL
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=1894&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="trtebatvlise.tr" tvg-name="TRT EBA LISE" tvg-logo="https://i.imgur.com/Tigkwyw.png" group-title="TR ☪ ULUSAL",TRT EBA LISE
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=1895&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="✦●✦ QHD ✦●✦" tvg-logo="https://i.imgur.com/PwUVpX0.png" group-title="TR ☪ QHD",✦●✦ QHD ✦●✦
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=268153&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="trt1.tr" tvg-name="TRT 1 QHD" tvg-logo="https://i.imgur.com/LyDEUYo.png" group-title="TR ☪ QHD",TRT 1 QHD
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=268106&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="atv.tr" tvg-name="ATV QHD" tvg-logo="https://i.imgur.com/FM3BgVn.png" group-title="TR ☪ QHD",ATV QHD
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=268107&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="startv.tr" tvg-name="STAR TV QHD" tvg-logo="https://i.imgur.com/DnewqU3.png" group-title="TR ☪ QHD",STAR TV QHD
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=268110&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="showtv.tr" tvg-name="SHOW TV QHD" tvg-logo="https://i.imgur.com/4g4h7hs.png" group-title="TR ☪ QHD",SHOW TV QHD
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=268108&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="kanald.tr" tvg-name="KANAL D QHD" tvg-logo="https://i.imgur.com/Hf2hchX.png" group-title="TR ☪ QHD",KANAL D QHD
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=268109&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="fox.tr" tvg-name="FOX QHD" tvg-logo="https://i.imgur.com/8yXp3FT.png" group-title="TR ☪ QHD",FOX QHD
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=268111&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="tv8.tr" tvg-name="TV 8 QHD" tvg-logo="https://i.imgur.com/tOjpDgK.png" group-title="TR ☪ QHD",TV 8 QHD
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=268112&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="tv85.tr" tvg-name="TV 8.5 QHD" tvg-logo="https://i.imgur.com/gRI7bqH.png" group-title="TR ☪ QHD",TV 8.5 QHD
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=268113&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="beyaztv.tr" tvg-name="BEYAZ TV QHD" tvg-logo="https://i.imgur.com/aU0JwIZ.png" group-title="TR ☪ QHD",BEYAZ TV QHD
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=268114&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="kanal7.tr" tvg-name="KANAL 7 QHD" tvg-logo="https://i.imgur.com/1krH92E.png" group-title="TR ☪ QHD",KANAL 7 QHD
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=268115&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="teve2.tr" tvg-name="TEVE 2 QHD" tvg-logo="https://i.imgur.com/zu6SEw7.png" group-title="TR ☪ QHD",TEVE 2 QHD
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=268117&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="360.tr" tvg-name="TV 360 QHD" tvg-logo="https://i.imgur.com/EY9aKhr.png" group-title="TR ☪ QHD",TV 360 QHD
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=268116&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="a2tv.tr" tvg-name="A2 QHD" tvg-logo="https://i.imgur.com/MB3Lihx.png" group-title="TR ☪ QHD",A2 QHD
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=268118&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="trthaber.tr" tvg-name="TRT HABER QHD" tvg-logo="https://i.imgur.com/TFtARhS.png" group-title="TR ☪ QHD",TRT HABER QHD
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=268122&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="cnnturk.tr" tvg-name="CNN TÜRK QHD" tvg-logo="https://i.imgur.com/lBZtBOo.png" group-title="TR ☪ QHD",CNN TÜRK QHD
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=268120&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="ntv.tr" tvg-name="NTV QHD" tvg-logo="https://i.imgur.com/UuImLEy.png" group-title="TR ☪ QHD",NTV QHD
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=268123&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="ahaber.tr" tvg-name="A HABER QHD" tvg-logo="https://i.imgur.com/52ujA2V.png" group-title="TR ☪ QHD",A HABER QHD
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=268119&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="halk.tr" tvg-name="HALK TV QHD" tvg-logo="https://i.imgur.com/rnSDMTn.png" group-title="TR ☪ QHD",HALK TV QHD
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=268127&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="haberturk.tr" tvg-name="HABERTÜRK QHD" tvg-logo="https://i.imgur.com/xHp6gUs.png" group-title="TR ☪ QHD",HABERTÜRK QHD
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=268121&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="haberglobal.tr" tvg-name="HABER GLOBAL QHD" tvg-logo="https://i.imgur.com/YLpGP7e.png" group-title="TR ☪ QHD",HABER GLOBAL QHD
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=268130&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="tv100.tr" tvg-name="TV100 QHD" tvg-logo="https://i.imgur.com/poPYrcR.png" group-title="TR ☪ QHD",TV100 QHD
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=268128&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="24.tr" tvg-name="KANAL 24 QHD" tvg-logo="https://i.imgur.com/NpvBNaB.png" group-title="TR ☪ QHD",KANAL 24 QHD
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=268129&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="ulketv.tr" tvg-name="ÜLKE TV QHD" tvg-logo="https://i.imgur.com/7yV41ij.png" group-title="TR ☪ QHD",ÜLKE TV QHD
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=268126&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="bloomberght.tr" tvg-name="BLOOMBERG HT QHD" tvg-logo="https://i.imgur.com/O0l1yhh.png" group-title="TR ☪ QHD",BLOOMBERG HT QHD
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=268125&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="tgrthaber.tr" tvg-name="TGRT HABER QHD" tvg-logo="https://i.imgur.com/pOtZZbm.png" group-title="TR ☪ QHD",TGRT HABER QHD
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=268124&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="trtbelgesel.tr" tvg-name="TRT BELGESEL QHD" tvg-logo="https://i.imgur.com/ali0Wiq.png" group-title="TR ☪ QHD",TRT BELGESEL QHD
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=268131&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="natgeowild.tr" tvg-name="NAT GEO WILD QHD" tvg-logo="https://i.imgur.com/Au6245H.png" group-title="TR ☪ QHD",NAT GEO WILD QHD
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=268135&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="natgeo.tr" tvg-name="NATIONAL GEOGRAPHIC QHD" tvg-logo="https://i.imgur.com/lUaB8xW.png" group-title="TR ☪ QHD",NATIONAL GEOGRAPHIC QHD
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=268134&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="discoverychannel.tr" tvg-name="DISCOVERY CHANNEL QHD" tvg-logo="https://i.imgur.com/PwCuwqT.png" group-title="TR ☪ QHD",DISCOVERY CHANNEL QHD
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=268136&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="DMAX QHD" tvg-logo="https://i.ibb.co/2t6833b/dmax.png" group-title="TR ☪ QHD",DMAX QHD
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=500025&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="BBC EARTH QHD" tvg-logo="https://i.ibb.co/cg7Vryn/bbcearth.png" group-title="TR ☪ QHD",BBC EARTH QHD
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=500024&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="viasathistory.tr" tvg-name="VIASAT HISTORY QHD" tvg-logo="https://i.imgur.com/zbzukOI.png" group-title="TR ☪ QHD",VIASAT HISTORY QHD
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=268133&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="historychannel.tr" tvg-name="HISTORY QHD" tvg-logo="https://i.imgur.com/CKLbKu6.png" group-title="TR ☪ QHD",HISTORY QHD
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=268132&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="sinematvhd.tr" tvg-name="SINEMA TV QHD" tvg-logo="https://i.imgur.com/06B68Lx.png" group-title="TR ☪ QHD",SINEMA TV QHD
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=268142&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="sinemakomedi2hd.tr" tvg-name="SINEMA TV KOMEDI 2 QHD" tvg-logo="https://i.imgur.com/2VpUmP0.png" group-title="TR ☪ QHD",SINEMA TV KOMEDI 2 QHD
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=268150&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="sinema1002.tr" tvg-name="SINEMA TV 1002 QHD" tvg-logo="https://i.imgur.com/dUR0TGP.png" group-title="TR ☪ QHD",SINEMA TV 1002 QHD
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=268152&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="✦●✦ HEVC | RAW ✦●✦" tvg-logo="https://i.imgur.com/PwUVpX0.png" group-title="TR ☪ HEVC",✦●✦ HEVC | RAW ✦●✦
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=1945&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="trt1.tr" tvg-name="↺TRT 1 HEVC" tvg-logo="https://i.imgur.com/H82KqCU.png" group-title="TR ☪ HEVC",↺TRT 1 HEVC
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=1947&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="atv.tr" tvg-name="↺ATV HEVC" tvg-logo="https://i.imgur.com/b414nTE.png" group-title="TR ☪ HEVC",↺ATV HEVC
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=1951&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="startv.tr" tvg-name="↺STAR TV HEVC" tvg-logo="https://i.imgur.com/6csuz3f.png" group-title="TR ☪ HEVC",↺STAR TV HEVC
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=1955&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="showtv.tr" tvg-name="↺SHOW TV HEVC" tvg-logo="https://i.imgur.com/OMhXdB1.png" group-title="TR ☪ HEVC",↺SHOW TV HEVC
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=1949&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="kanald.tr" tvg-name="↺KANAL D HEVC" tvg-logo="https://i.imgur.com/vwJP8GR.png" group-title="TR ☪ HEVC",↺KANAL D HEVC
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=1953&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="tv8.tr" tvg-name="↺TV 8 HEVC" tvg-logo="https://i.imgur.com/D4cdCaL.png" group-title="TR ☪ HEVC",↺TV 8 HEVC
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=1959&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="fox.tr" tvg-name="↺FOX TV HEVC" tvg-logo="https://i.imgur.com/aibrdsJ.png" group-title="TR ☪ HEVC",↺FOX TV HEVC
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=1957&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="beyaztv.tr" tvg-name="↺BEYAZ TV HEVC" tvg-logo="https://i.imgur.com/oXRU2XO.png" group-title="TR ☪ HEVC",↺BEYAZ TV HEVC
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=1961&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="kanal7.tr" tvg-name="↺KANAL 7 HEVC" tvg-logo="https://i.imgur.com/qdyDgAZ.png" group-title="TR ☪ HEVC",↺KANAL 7 HEVC
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=1965&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="teve2.tr" tvg-name="↺TEVE 2 HEVC" tvg-logo="https://imgur.com/HwALe3a.png" group-title="TR ☪ HEVC",↺TEVE 2 HEVC
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=1967&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="tv85.tr" tvg-name="TV 8.5 HEVC" tvg-logo="https://i.imgur.com/NK2Xa8Y.png" group-title="TR ☪ HEVC",TV 8.5 HEVC
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=1963&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="a2tv.tr" tvg-name="↺A2 HEVC" tvg-logo="https://i.imgur.com/GYJS38c.png" group-title="TR ☪ HEVC",↺A2 HEVC
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=1969&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="trtturk.tr" tvg-name="TRT TURK HEVC" tvg-logo="https://i.imgur.com/weE1trA.png" group-title="TR ☪ HEVC",TRT TURK HEVC
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=1973&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="trthaber.tr" tvg-name="TRT HABER HEVC" tvg-logo="https://i.imgur.com/LOz0HK0.png" group-title="TR ☪ HEVC",TRT HABER HEVC
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=1975&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="halk.tr" tvg-name="HALK TV HEVC" tvg-logo="https://i.imgur.com/vWULAPb.png" group-title="TR ☪ HEVC",HALK TV HEVC
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=1977&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="ntv.tr" tvg-name="NTV HEVC" tvg-logo="https://i.imgur.com/pkc7byc.png" group-title="TR ☪ HEVC",NTV HEVC
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=1987&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="ahaber.tr" tvg-name="A HABER HEVC" tvg-logo="https://i.imgur.com/iUsN5Dv.png" group-title="TR ☪ HEVC",A HABER HEVC
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=1981&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="cnnturk.tr" tvg-name="CNN TURK HEVC" tvg-logo="https://i.imgur.com/ozZCcKm.png" group-title="TR ☪ HEVC",CNN TURK HEVC
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=1985&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="360.tr" tvg-name="↺360 TV HEVC" tvg-logo="https://i.imgur.com/1kccTG0.png" group-title="TR ☪ HEVC",↺360 TV HEVC
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=1971&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="haberturk.tr" tvg-name="HABERTURK HEVC" tvg-logo="https://i.imgur.com/8xbufwT.png" group-title="TR ☪ HEVC",HABERTURK HEVC
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=1979&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="bloomberght.tr" tvg-name="BLOOMBERG HT HEVC" tvg-logo="https://i.imgur.com/MxGmxaG.png" group-title="TR ☪ HEVC",BLOOMBERG HT HEVC
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=1983&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="tv100.tr" tvg-name="TV 100 HEVC" tvg-logo="https://i.imgur.com/ku9BoxW.jpg" group-title="TR ☪ HEVC",TV 100 HEVC
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=1989&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="tgrtbelgesel.tr" tvg-name="↺TRT BELGESEL HEVC" tvg-logo="https://i.imgur.com/eVbE2hn.png.jpg" group-title="TR ☪ HEVC",↺TRT BELGESEL HEVC
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=1993&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="natgeowild.tr" tvg-name="↺NAT GEO WILD HEVC" tvg-logo="https://i.imgur.com/ukXWpsk.jpg" group-title="TR ☪ HEVC",↺NAT GEO WILD HEVC
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=1995&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="natgeo.tr" tvg-name="↺NATIONAL GEOGRAPHIC HEVC" tvg-logo="https://imgur.com/0z38xlU.png" group-title="TR ☪ HEVC",↺NATIONAL GEOGRAPHIC HEVC
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=1997&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="viasathistory.tr" tvg-name="↺VIASAT HISTORY HEVC" tvg-logo="https://imgur.com/ANlWTPa.png" group-title="TR ☪ HEVC",↺VIASAT HISTORY HEVC
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=2003&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="dmax.tr" tvg-name="↺DMAX HEVC" tvg-logo="https://imgur.com/CntT0YT.png" group-title="TR ☪ HEVC",↺DMAX HEVC
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=2004&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="discoverychannel.tr" tvg-name="↺DISCOVERY HEVC" tvg-logo="https://imgur.com/utsbIaT.png" group-title="TR ☪ HEVC",↺DISCOVERY HEVC
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=1999&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="discoveryscience.tr" tvg-name="↺DISCOVERY SCIENCE HEVC" tvg-logo="https://i.imgur.com/8ZC3PfW.png" group-title="TR ☪ HEVC",↺DISCOVERY SCIENCE HEVC
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=2001&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="trt1.tr" tvg-name="TRT 1 RAW" tvg-logo="https://i.imgur.com/wk2RlVt.png" group-title="TR ☪ HEVC",TRT 1 RAW
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=1946&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="atv.tr" tvg-name="ATV RAW" tvg-logo="https://i.imgur.com/grbKf2t.png" group-title="TR ☪ HEVC",ATV RAW
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=1950&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="startv.tr" tvg-name="STAR TV  RAW" tvg-logo="https://i.imgur.com/80X4f1o.png" group-title="TR ☪ HEVC",STAR TV  RAW
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=1954&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="showtv.tr" tvg-name="SHOW TV RAW" tvg-logo="https://i.imgur.com/OMhXdB1.png" group-title="TR ☪ HEVC",SHOW TV RAW
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=1948&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="kanald.tr" tvg-name="KANAL D RAW" tvg-logo="https://i.imgur.com/9aeXqx1.png" group-title="TR ☪ HEVC",KANAL D RAW
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=1952&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="fox.tr" tvg-name="FOX TV RAW" tvg-logo="https://i.imgur.com/WWccWpA.png" group-title="TR ☪ HEVC",FOX TV RAW
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=1956&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="tv8.tr" tvg-name="TV 8 RAW" tvg-logo="https://i.imgur.com/3AuU1OY.png" group-title="TR ☪ HEVC",TV 8 RAW
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=1958&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="beyaztv.tr" tvg-name="BEYAZ TV RAW" tvg-logo="https://i.imgur.com/sVM0Cie.png" group-title="TR ☪ HEVC",BEYAZ TV RAW
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=1960&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="tv85.tr" tvg-name="TV 8.5 RAW" tvg-logo="https://i.imgur.com/PRHWVrw.png" group-title="TR ☪ HEVC",TV 8.5 RAW
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=1962&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="kanal7.tr" tvg-name="KANAL 7 RAW" tvg-logo="https://i.imgur.com/WEK0cTU.png" group-title="TR ☪ HEVC",KANAL 7 RAW
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=1964&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="teve2.tr" tvg-name="TEVE 2 RAW" tvg-logo="https://i.imgur.com/qxBsPSL.png" group-title="TR ☪ HEVC",TEVE 2 RAW
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=1966&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="a2tv.tr" tvg-name="A2 RAW" tvg-logo="https://i.imgur.com/X2OcRRJ.png" group-title="TR ☪ HEVC",A2 RAW
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=1968&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="ahaber.tr" tvg-name="A HABER RAW" tvg-logo="https://i.imgur.com/rewzEZZ.png" group-title="TR ☪ HEVC",A HABER RAW
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=1980&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="360.tr" tvg-name="360 TV RAW" tvg-logo="https://i.imgur.com/iTRCYDY.png" group-title="TR ☪ HEVC",360 TV RAW
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=1970&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="trtturk.tr" tvg-name="TRT TURK RAW" tvg-logo="https://i.imgur.com/2AjCyj9.png" group-title="TR ☪ HEVC",TRT TURK RAW
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=1972&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="trthaber.tr" tvg-name="TRT HABER RAW" tvg-logo="https://i.imgur.com/y3xNIcX.png" group-title="TR ☪ HEVC",TRT HABER RAW
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=1974&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="halk.tr" tvg-name="HALK TV RAW" tvg-logo="https://i.imgur.com/voBhTqT.png" group-title="TR ☪ HEVC",HALK TV RAW
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=1976&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="tv100.tr" tvg-name="TV 100 RAW" tvg-logo="https://i.imgur.com/08feme3.jpg" group-title="TR ☪ HEVC",TV 100 RAW
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=1988&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="FLASH HABER TV RAW" tvg-logo="https://i.imgur.com/CQhVN0s.png" group-title="TR ☪ HEVC",FLASH HABER TV RAW
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=437542&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="HABER GLOBAL RAW" tvg-logo="https://i.imgur.com/b6vimFf.png" group-title="TR ☪ HEVC",HABER GLOBAL RAW
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=437543&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="haberturk.tr" tvg-name="HABERTURK RAW" tvg-logo="https://i.imgur.com/Lko1Pb5.png" group-title="TR ☪ HEVC",HABERTURK RAW
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=1978&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="cnnturk.tr" tvg-name="CNN TURK RAW" tvg-logo="https://i.imgur.com/1kEj5Q8.png" group-title="TR ☪ HEVC",CNN TURK RAW
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=1984&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="bloomberght.tr" tvg-name="BLOOMBERG HT RAW" tvg-logo="https://i.imgur.com/7YYzACA.png" group-title="TR ☪ HEVC",BLOOMBERG HT RAW
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=1982&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="ntv.tr" tvg-name="NTV RAW" tvg-logo="https://i.imgur.com/6SdugTA.png" group-title="TR ☪ HEVC",NTV RAW
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=1986&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="ULUSAL KANAL RAW" tvg-logo="https://i.imgur.com/b3wXUX3.png" group-title="TR ☪ HEVC",ULUSAL KANAL RAW
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=437556&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="ULKE TV RAW" tvg-logo="https://i.ibb.co/4p5t3DB/lke.png" group-title="TR ☪ HEVC",ULKE TV RAW
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=437559&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="KANAL 24 RAW" tvg-logo="https://i.imgur.com/Z3uLS2m.png" group-title="TR ☪ HEVC",KANAL 24 RAW
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=437534&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="tgrtbelgesel.tr" tvg-name="TRT BELGESEL RAW" tvg-logo="https://i.imgur.com/ZrqUvIL.png" group-title="TR ☪ HEVC",TRT BELGESEL RAW
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=1992&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="natgeowild.tr" tvg-name="NAT GEO WILD RAW" tvg-logo="https://i.imgur.com/3HzPD98.jpg" group-title="TR ☪ HEVC",NAT GEO WILD RAW
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=1994&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="natgeo.tr" tvg-name="NATIONAL GEOGRAPHIC RAW" tvg-logo="https://i.imgur.com/GPxBm4y.jpg" group-title="TR ☪ HEVC",NATIONAL GEOGRAPHIC RAW
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=1996&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="discoverychannel.tr" tvg-name="DISCOVERY RAW" tvg-logo="https://imgur.com/CwtD9F7.png" group-title="TR ☪ HEVC",DISCOVERY RAW
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=1998&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="discoveryscience.tr" tvg-name="DISCOVERY SCIENCE RAW" tvg-logo="https://i.imgur.com/bi6qPYs.png" group-title="TR ☪ HEVC",DISCOVERY SCIENCE RAW
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=2000&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="dmax.tr" tvg-name="DMAX RAW" tvg-logo="https://imgur.com/OO5eonJ.png" group-title="TR ☪ HEVC",DMAX RAW
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=409691&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="viasathistory.tr" tvg-name="VIASAT HISTORY RAW" tvg-logo="https://imgur.com/vbUEAtm.png" group-title="TR ☪ HEVC",VIASAT HISTORY RAW
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=2002&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="VIASAT EXPLORE RAW" tvg-logo="https://i.imgur.com/M2UL0hV.png" group-title="TR ☪ HEVC",VIASAT EXPLORE RAW
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=437558&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TLC RAW" tvg-logo="https://i.imgur.com/vk1fgLF.png" group-title="TR ☪ HEVC",TLC RAW
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=437550&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="LOVE NATURE RAW" tvg-logo="https://i.imgur.com/vt0x556.png" group-title="TR ☪ HEVC",LOVE NATURE RAW
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=437546&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="NATURE ESCAPE RAW" tvg-logo="https://i.imgur.com/M7MFfdW.png" group-title="TR ☪ HEVC",NATURE ESCAPE RAW
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=437547&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="✦●✦ SPOR ✦●✦" tvg-logo="https://www.lyngsat.com/logo/flag/az/tr.png" group-title="TR ☪ SPOR",✦●✦ SPOR ✦●✦
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=2013&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Galatasaray v Fenerbahçe (Super Cup Final)" tvg-logo="https://i.ibb.co/Y8wmGWC/kup.webp" group-title="TR ☪ SPOR",Galatasaray v Fenerbahçe (Super Cup Final)
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=497793&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="SPOR: Hangi Maç Hangi Kanalda ?" tvg-logo="https://i.ibb.co/M78MymF/afawfaw.png" group-title="TR ☪ SPOR",SPOR: Hangi Maç Hangi Kanalda ?
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=490690&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="trtspor.tr" tvg-name="TRT SPOR QHD" tvg-logo="https://tvlogo.nl/files/ch/TR/trt_spor.png" group-title="TR ☪ SPOR",TRT SPOR QHD
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=268139&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="trtspor.tr" tvg-name="↺TRT SPOR HEVC" tvg-logo="https://tvlogo.nl/files/ch/TR/trt_spor.png" group-title="TR ☪ SPOR",↺TRT SPOR HEVC
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=2014&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="trtspor.tr" tvg-name="TRT SPOR FHD" tvg-logo="https://tvlogo.nl/files/ch/TR/trt_spor.png" group-title="TR ☪ SPOR",TRT SPOR FHD
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=2015&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="trtspor.tr" tvg-name="TRT SPOR HD" tvg-logo="https://tvlogo.nl/files/ch/TR/trt_spor.png" group-title="TR ☪ SPOR",TRT SPOR HD
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=2016&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="aspor.tr" tvg-name="A SPOR QHD" tvg-logo="https://tvlogo.nl/files/ch/TR/a_spor.png" group-title="TR ☪ SPOR",A SPOR QHD
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=268138&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="aspor.tr" tvg-name="↺A SPOR HEVC" tvg-logo="https://tvlogo.nl/files/ch/TR/a_spor.png" group-title="TR ☪ SPOR",↺A SPOR HEVC
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=2021&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="aspor.tr" tvg-name="A SPOR FHD" tvg-logo="https://tvlogo.nl/files/ch/TR/a_spor.png" group-title="TR ☪ SPOR",A SPOR FHD
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=2022&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="aspor.tr" tvg-name="A SPOR HD" tvg-logo="https://tvlogo.nl/files/ch/TR/a_spor.png" group-title="TR ☪ SPOR",A SPOR HD
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=2023&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TRT SPOR YILDIZ FHD" tvg-logo="https://tvlogo.nl/files/ch/TR//trtsporstar.png" group-title="TR ☪ SPOR",TRT SPOR YILDIZ FHD
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=2018&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TRT SPOR YILDIZ HD" tvg-logo="https://tvlogo.nl/files/ch/TR/trtsporstar.png" group-title="TR ☪ SPOR",TRT SPOR YILDIZ HD
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=2019&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="ssport.tr" tvg-name="↺S SPORT 1 HEVC" tvg-logo="https://tvlogo.nl/files/ch/TR/s_sport.png" group-title="TR ☪ SPOR",↺S SPORT 1 HEVC
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=481300&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="ssport.tr" tvg-name="S SPORT 1 FHD" tvg-logo="https://tvlogo.nl/files/ch/TR/s_sport.png" group-title="TR ☪ SPOR",S SPORT 1 FHD
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=2025&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="ssport.tr" tvg-name="S SPORT 1 HD" tvg-logo="https://tvlogo.nl/files/ch/TR/s_sport.png" group-title="TR ☪ SPOR",S SPORT 1 HD
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=2026&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="ssport2.tr" tvg-name="↺S SPORT 2 HEVC" tvg-logo="https://tvlogo.nl/files/ch/TR/s_sport_2.png" group-title="TR ☪ SPOR",↺S SPORT 2 HEVC
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=481301&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="ssport2.tr" tvg-name="S SPORT 2 FHD" tvg-logo="https://tvlogo.nl/files/ch/TR/s_sport_2.png" group-title="TR ☪ SPOR",S SPORT 2 FHD
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=2028&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="ssport2.tr" tvg-name="S SPORT 2 HD" tvg-logo="https://tvlogo.nl/files/ch/TR/s_sport_2.png" group-title="TR ☪ SPOR",S SPORT 2 HD
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=2029&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="smartspor.tr" tvg-name="↺SPOR SMART 1 HEVC" tvg-logo="https://tvlogo.nl/files/ch/TR/spor_smart.png" group-title="TR ☪ SPOR",↺SPOR SMART 1 HEVC
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=197633&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="sporsmart.tr" tvg-name="SPOR SMART 1 FHD" tvg-logo="https://tvlogo.nl/files/ch/TR/spor_smart.png" group-title="TR ☪ SPOR",SPOR SMART 1 FHD
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=2031&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="sporsmart.tr" tvg-name="SPOR SMART 1 HD" tvg-logo="https://tvlogo.nl/files/ch/TR/spor_smart.png" group-title="TR ☪ SPOR",SPOR SMART 1 HD
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=2032&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="↺SPOR SMART 2 HEVC" tvg-logo="https://tvlogo.nl/files/ch/TR/spor_smart2.png" group-title="TR ☪ SPOR",↺SPOR SMART 2 HEVC
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=481299&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="SPOR SMART 2 FHD" tvg-logo="https://tvlogo.nl/files/ch/TR/spor_smart2.png" group-title="TR ☪ SPOR",SPOR SMART 2 FHD
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=2033&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="SPOR SMART 2 HD" tvg-logo="https://tvlogo.nl/files/ch/TR/spor_smart2.png" group-title="TR ☪ SPOR",SPOR SMART 2 HD
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=2034&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TIVIBUSPOR HD" tvg-logo="https://tvlogo.nl/files/ch/TR/TIVIBUSPOR.png" group-title="TR ☪ SPOR",TIVIBUSPOR HD
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=2041&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TIVIBUSPOR FHD" tvg-logo="https://tvlogo.nl/files/ch/TR/TIVIBUSPOR.png" group-title="TR ☪ SPOR",TIVIBUSPOR FHD
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=2040&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TIVIBUSPOR 1 HD" tvg-logo="https://tvlogo.nl/files/ch/TR/TIVIBUSPOR2.png" group-title="TR ☪ SPOR",TIVIBUSPOR 1 HD
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=2043&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TIVIBUSPOR 1 FHD" tvg-logo="https://tvlogo.nl/files/ch/TR/TIVIBUSPOR2.png" group-title="TR ☪ SPOR",TIVIBUSPOR 1 FHD
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=2042&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TIVIBUSPOR 2 HD" tvg-logo="https://tvlogo.nl/files/ch/TR/tivibu_spor_3.png" group-title="TR ☪ SPOR",TIVIBUSPOR 2 HD
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=2045&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TIVIBUSPOR 2 FHD" tvg-logo="https://tvlogo.nl/files/ch/TR/tivibu_spor_3.png" group-title="TR ☪ SPOR",TIVIBUSPOR 2 FHD
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=2044&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TIVIBUSPOR 3 HD" tvg-logo="https://tvlogo.nl/files/ch/TR/tivibu_spor_4.png" group-title="TR ☪ SPOR",TIVIBUSPOR 3 HD
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=33296&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="eurosport1.tr" tvg-name="EUROSPORT 1 FHD" tvg-logo="https://tvlogo.nl/files/ch/ALBANEXYU/Eurosport_1_eno.png" group-title="TR ☪ SPOR",EUROSPORT 1 FHD
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=2036&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="eurosport1.tr" tvg-name="EUROSPORT 1 HD" tvg-logo="https://tvlogo.nl/files/ch/ALBANEXYU/Eurosport_1_eno.png" group-title="TR ☪ SPOR",EUROSPORT 1 HD
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=196082&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="eurosport2.tr" tvg-name="EUROSPORT 2 FHD" tvg-logo="https://tvlogo.nl/files/ch/ALBANEXYU/Eurosport_2_eno.png" group-title="TR ☪ SPOR",EUROSPORT 2 FHD
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=2037&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="eurosport2.tr" tvg-name="EUROSPORT 2 HD" tvg-logo="https://tvlogo.nl/files/ch/ALBANEXYU/Eurosport_2_eno.png" group-title="TR ☪ SPOR",EUROSPORT 2 HD
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=196081&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="sportstv.tr" tvg-name="SPORTS TV FHD" tvg-logo="https://tvlogo.nl/files/TR/sports_tv.png" group-title="TR ☪ SPOR",SPORTS TV FHD
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=196080&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="sportstv.tr" tvg-name="SPORTS TV HD" tvg-logo="https://tvlogo.nl/files/ch/TR/sports_tv.png" group-title="TR ☪ SPOR",SPORTS TV HD
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=2035&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="S SPORT PLUS 1" tvg-logo="https://tvlogo.nl/files/ch/TR/s_sport.png" group-title="TR ☪ SPOR",S SPORT PLUS 1
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=393375&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="S SPORT PLUS 2" tvg-logo="https://tvlogo.nl/files/ch/TR/s_sport.png" group-title="TR ☪ SPOR",S SPORT PLUS 2
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=471724&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="S SPORT PLUS 3" tvg-logo="https://tvlogo.nl/files/ch/TR/s_sport.png" group-title="TR ☪ SPOR",S SPORT PLUS 3
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=432053&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="S SPORT PLUS 4" tvg-logo="https://tvlogo.nl/files/ch/TR/s_sport.png" group-title="",S SPORT PLUS 4
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=432052&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="fbtv.tr" tvg-name="FB TV" tvg-logo="https://tvlogo.nl/files/ch/TR/FBTVHDPLUS.png" group-title="TR ☪ SPOR",FB TV
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=2038&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="gstv.tr" tvg-name="GS TV HD" tvg-logo="https://tvlogo.nl/files/ch/TR/gs_tv.png" group-title="TR ☪ SPOR",GS TV HD
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=2039&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="nbatv.tr" tvg-name="NBA TV FHD" tvg-logo="http://focustv.xyz/files/ch/PORTEK%C4%B0Z/NBA.png" group-title="TR ☪ SPOR",NBA TV FHD
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=2048&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="nbatv.tr" tvg-name="NBA TV HD" tvg-logo="https://tvlogo.nl/files/ch/PORTEK%C4%B0Z/NBA.png" group-title="TR ☪ SPOR",NBA TV HD
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=2049&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TRT 3 SPOR (TBMM) FHD" tvg-logo="https://tvlogo.nl/files/ch/TR/trt_sopr3_tbmm.png" group-title="TR ☪ SPOR",TRT 3 SPOR (TBMM) FHD
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=2020&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="FIGHTBOX FHD" tvg-logo="https://tvlogo.nl/files/ch/TR/fightbox.png" group-title="TR ☪ SPOR",FIGHTBOX FHD
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=2047&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TAY TV FHD" tvg-logo="https://tvlogo.nl/files/ch/TR/tay_tv.png" group-title="TR ☪ SPOR",TAY TV FHD
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=2051&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TJK TV HD" tvg-logo="https://tvlogo.nl/files/ch/TR/tjk_tv.png" group-title="TR ☪ SPOR",TJK TV HD
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=2050&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="✦●✦ EXXEN SPORT ✦●✦" tvg-logo="https://www.lyngsat.com/logo/flag/az/tr.png" group-title="TR ☪ EXXEN SPORT",✦●✦ EXXEN SPORT ✦●✦
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=26441&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TR | EXXEN TV  FHD" tvg-logo="http://boxvod.vipnova.xyz:8080/kralsin/logos/exxen.png" group-title="TR ☪ EXXEN SPORT",TR | EXXEN TV  FHD
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=475884&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TR | EXXEN TV  HD" tvg-logo="http://boxvod.vipnova.xyz:8080/kralsin/logos/exxen.png" group-title="TR ☪ EXXEN SPORT",TR | EXXEN TV  HD
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=475885&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TR | EXXEN SPOR 1 RAW" tvg-logo="https://i.imgur.com/itpyNsB.png" group-title="TR ☪ EXXEN SPORT",TR | EXXEN SPOR 1 RAW
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=250132&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TR | EXXEN SPOR 1 FHD" tvg-logo="https://i.imgur.com/itpyNsB.png" group-title="TR ☪ EXXEN SPORT",TR | EXXEN SPOR 1 FHD
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=230&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TR | EXXEN SPOR 1 HD" tvg-logo="https://i.imgur.com/itpyNsB.png" group-title="TR ☪ EXXEN SPORT",TR | EXXEN SPOR 1 HD
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=231&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TR | EXXEN SPOR 1 SD" tvg-logo="https://i.imgur.com/itpyNsB.png" group-title="TR ☪ EXXEN SPORT",TR | EXXEN SPOR 1 SD
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=262467&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TR | EXXEN SPOR 2 RAW" tvg-logo="https://i.imgur.com/yBPGjOu.png" group-title="TR ☪ EXXEN SPORT",TR | EXXEN SPOR 2 RAW
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=250133&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TR | EXXEN SPOR 2 FHD" tvg-logo="https://i.imgur.com/yBPGjOu.png" group-title="TR ☪ EXXEN SPORT",TR | EXXEN SPOR 2 FHD
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=262468&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TR | EXXEN SPOR 2 HD" tvg-logo="https://i.imgur.com/yBPGjOu.png" group-title="TR ☪ EXXEN SPORT",TR | EXXEN SPOR 2 HD
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=234&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TR | EXXEN SPOR 3 RAW" tvg-logo="https://i.imgur.com/xVBJBWU.png" group-title="TR ☪ EXXEN SPORT",TR | EXXEN SPOR 3 RAW
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=250134&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TR | EXXEN SPOR 3 FHD" tvg-logo="https://i.imgur.com/xVBJBWU.png" group-title="TR ☪ EXXEN SPORT",TR | EXXEN SPOR 3 FHD
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=124069&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TR | EXXEN SPOR 3 HD" tvg-logo="https://i.imgur.com/xVBJBWU.png" group-title="TR ☪ EXXEN SPORT",TR | EXXEN SPOR 3 HD
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=236&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TR | EXXEN SPOR 4 RAW" tvg-logo="https://i.imgur.com/QiVp2Nz.png" group-title="TR ☪ EXXEN SPORT",TR | EXXEN SPOR 4 RAW
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=250135&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TR | EXXEN SPOR 4 FHD" tvg-logo="https://i.imgur.com/QiVp2Nz.png" group-title="TR ☪ EXXEN SPORT",TR | EXXEN SPOR 4 FHD
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=117193&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TR | EXXEN SPOR 4 HD" tvg-logo="https://i.imgur.com/QiVp2Nz.png" group-title="TR ☪ EXXEN SPORT",TR | EXXEN SPOR 4 HD
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=117197&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TR | EXXEN SPOR 5 RAW" tvg-logo="https://i.imgur.com/J7sWctX.png" group-title="TR ☪ EXXEN SPORT",TR | EXXEN SPOR 5 RAW
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=250136&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TR | EXXEN SPOR 5 FHD" tvg-logo="https://i.imgur.com/J7sWctX.png" group-title="TR ☪ EXXEN SPORT",TR | EXXEN SPOR 5 FHD
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=117194&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TR | EXXEN SPOR 5 HD" tvg-logo="https://i.imgur.com/J7sWctX.png" group-title="TR ☪ EXXEN SPORT",TR | EXXEN SPOR 5 HD
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=117198&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TR | EXXEN SPOR 6 RAW" tvg-logo="https://i.imgur.com/6w6Yupp.png" group-title="TR ☪ EXXEN SPORT",TR | EXXEN SPOR 6 RAW
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=250137&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TR | EXXEN SPOR 6 FHD" tvg-logo="https://i.imgur.com/6w6Yupp.png" group-title="TR ☪ EXXEN SPORT",TR | EXXEN SPOR 6 FHD
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=117202&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TR | EXXEN SPOR 6 HD" tvg-logo="https://i.imgur.com/6w6Yupp.png" group-title="TR ☪ EXXEN SPORT",TR | EXXEN SPOR 6 HD
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=117201&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TR | EXXEN SPOR  7 RAW" tvg-logo="https://i.imgur.com/3sq54x3.png" group-title="TR ☪ EXXEN SPORT",TR | EXXEN SPOR  7 RAW
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=250138&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TR | EXXEN SPOR 7 FHD" tvg-logo="https://i.imgur.com/3sq54x3.png" group-title="TR ☪ EXXEN SPORT",TR | EXXEN SPOR 7 FHD
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=117195&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TR | EXXEN SPOR 7 HD" tvg-logo="https://i.imgur.com/3sq54x3.png" group-title="TR ☪ EXXEN SPORT",TR | EXXEN SPOR 7 HD
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=117199&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TR | EXXEN SPOR 8 FHD" tvg-logo="https://i.imgur.com/zVh6gnY.png" group-title="TR ☪ EXXEN SPORT",TR | EXXEN SPOR 8 FHD
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=117196&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TR | EXXEN SPOR 8 HD" tvg-logo="https://i.imgur.com/zVh6gnY.png" group-title="TR ☪ EXXEN SPORT",TR | EXXEN SPOR 8 HD
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=117200&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="✦●✦ BELGESEL ✦●✦" tvg-logo="https://www.lyngsat.com/logo/flag/az/tr.png" group-title="TR ☪ BELGESEL",✦●✦ BELGESEL ✦●✦
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=2136&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="trtbelgesel.tr" tvg-name="TRT BELGESEL FHD" tvg-logo="https://tvlogo.nl/files/ch/TR/trt_belgesel.png" group-title="TR ☪ BELGESEL",TRT BELGESEL FHD
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=481298&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="trtbelgesel.tr" tvg-name="TRT BELGESEL HD" tvg-logo="https://tvlogo.nl/files/ch/TR/trt_belgesel.png" group-title="TR ☪ BELGESEL",TRT BELGESEL HD
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=481297&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="natgeo.tr" tvg-name="NATIONAL GEOGRAPHIC FHD" tvg-logo="https://tvlogo.nl/files/ch/GERMANY/national_geographic.png" group-title="TR ☪ BELGESEL",NATIONAL GEOGRAPHIC FHD
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=481296&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="natgeo.tr" tvg-name="NATIONAL GEOGRAPHIC HD" tvg-logo="https://tvlogo.nl/files/ch/GERMANY/national_geographic.png" group-title="TR ☪ BELGESEL",NATIONAL GEOGRAPHIC HD
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=481295&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="natgeowild.tr" tvg-name="NAT GEO WILD FHD" tvg-logo="https://tvlogo.nl/files/ch/GERMANY/national_geo_wild.png" group-title="TR ☪ BELGESEL",NAT GEO WILD FHD
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=481294&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="natgeowild.tr" tvg-name="NAT GEO WILD HD" tvg-logo="https://tvlogo.nl/files/ch/GERMANY/national_geo_wild.png" group-title="TR ☪ BELGESEL",NAT GEO WILD HD
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=481293&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="discoverychannel.tr" tvg-name="DISCOVERY FHD" tvg-logo="https://tvlogo.nl/files/ch/GERMANY/discovery_channel.png" group-title="TR ☪ BELGESEL",DISCOVERY FHD
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=481292&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="discoverychannel.tr" tvg-name="DISCOVERY HD" tvg-logo="https://tvlogo.nl/files/ch/GERMANY/discovery_channel.png" group-title="TR ☪ BELGESEL",DISCOVERY HD
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=481291&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="discoveryid.tr" tvg-name="DISCOVERY ID HD" tvg-logo="https://tvlogo.nl/files/ch/TR/discovery_idx.png" group-title="TR ☪ BELGESEL",DISCOVERY ID HD
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=483676&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="discoveryid.tr" tvg-name="DISCOVERY ID" tvg-logo="https://tvlogo.nl/files/ch/TR/discovery_idx.png" group-title="TR ☪ BELGESEL",DISCOVERY ID
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=483677&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="docubox.tr" tvg-name="DOCUBOX FHD" tvg-logo="https://tvlogo.nl/files/ch/TR/docubox.png" group-title="TR ☪ BELGESEL",DOCUBOX FHD
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=481288&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="docubox.tr" tvg-name="DOCUBOX HD" tvg-logo="https://tvlogo.nl/files/ch/TR/docubox.png" group-title="TR ☪ BELGESEL",DOCUBOX HD
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=481287&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="DOCUAX WILD HD" tvg-logo="https://tvlogo.nl/files/ch/TR/DOCUAXHD.png" group-title="TR ☪ BELGESEL",DOCUAX WILD HD
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=481286&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="DOCUAX HISTORY HD" tvg-logo="https://tvlogo.nl/files/ch/TR/DOCUAXHD.png" group-title="TR ☪ BELGESEL",DOCUAX HISTORY HD
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=481285&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="DOCUAX TECH HD" tvg-logo="https://tvlogo.nl/files/ch/TR/DOCUAXHD.png" group-title="TR ☪ BELGESEL",DOCUAX TECH HD
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=481284&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="DOCUAX SPACE HD" tvg-logo="https://tvlogo.nl/files/ch/TR/DacuaxSpace.png" group-title="TR ☪ BELGESEL",DOCUAX SPACE HD
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=481283&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="bbcearth.tr" tvg-name="BBC EARTH FHD" tvg-logo="https://tvlogo.nl/files/ch/SCANDINAVIAN/bbcEarth.png" group-title="TR ☪ BELGESEL",BBC EARTH FHD
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=481282&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="bbcearth.tr" tvg-name="BBC EARTH HD" tvg-logo="https://tvlogo.nl/files/ch/SCANDINAVIAN/bbcEarth.png" group-title="TR ☪ BELGESEL",BBC EARTH HD
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=481281&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="historychannel.tr" tvg-name="HISTORY FHD" tvg-logo="https://tvlogo.nl/files/ch/GERMANY/history.png" group-title="TR ☪ BELGESEL",HISTORY FHD
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=481280&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="historychannel.tr" tvg-name="HISTORY HD" tvg-logo="https://tvlogo.nl/files/ch/GERMANY/history.png" group-title="TR ☪ BELGESEL",HISTORY HD
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=481279&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="LOVE NATURE FHD" tvg-logo="https://tvlogo.nl/files/ch/TR/love_nature.png" group-title="TR ☪ BELGESEL",LOVE NATURE FHD
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=481278&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="LOVE NATURE HD" tvg-logo="https://tvlogo.nl/files/ch/TR/love_nature.png" group-title="TR ☪ BELGESEL",LOVE NATURE HD
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=481277&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="viasathistory.tr" tvg-name="VIASAT HISTORY FHD" tvg-logo="https://tvlogo.nl/files/ch/EXYU/VIASATHISTORY.png" group-title="TR ☪ BELGESEL",VIASAT HISTORY FHD
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=481276&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="viasathistory.tr" tvg-name="VIASAT HISTORY HD" tvg-logo="https://tvlogo.nl/files/ch/EXYU/VIASATHISTORY.png" group-title="TR ☪ BELGESEL",VIASAT HISTORY HD
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=481275&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="VIASAT EXPLORE HD" tvg-logo="https://tvlogo.nl/files/ch/TR/viasatExplore.png" group-title="TR ☪ BELGESEL",VIASAT EXPLORE HD
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=481274&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="VIASAT EXPLORE" tvg-logo="https://tvlogo.nl/files/ch/TR/viasatExplore.png" group-title="TR ☪ BELGESEL",VIASAT EXPLORE
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=481273&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="dmax.tr" tvg-name="DMAX FHD" tvg-logo="https://tvlogo.nl/files/ch/GERMANY/dmaxx.png" group-title="TR ☪ BELGESEL",DMAX FHD
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=481272&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="dmax.tr" tvg-name="DMAX HD" tvg-logo="https://tvlogo.nl/files/ch/GERMANY/dmaxx.png" group-title="TR ☪ BELGESEL",DMAX HD
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=481271&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="tlc.tr" tvg-name="TLC FHD" tvg-logo="https://tvlogo.nl/files/ch/HOLLANDA/TLC.png" group-title="TR ☪ BELGESEL",TLC FHD
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=481270&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="tlc.tr" tvg-name="TLC HD" tvg-logo="https://tvlogo.nl/files/ch/HOLLANDA/TLC.png" group-title="TR ☪ BELGESEL",TLC HD
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=481269&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="beiniz.tr" tvg-name="BEIN IZ FHD" tvg-logo="https://tvlogo.nl/files/ch/TR/beiniz.png" group-title="TR ☪ BELGESEL",BEIN IZ FHD
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=481268&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="beiniz.tr" tvg-name="BEIN IZ HD" tvg-logo="https://tvlogo.nl/files/ch/TR/beiniz.png" group-title="TR ☪ BELGESEL",BEIN IZ HD
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=481267&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="beingurme.tr" tvg-name="BEIN GURME FHD" tvg-logo="https://tvlogo.nl/files/ch/ALBANEXYU/bein-gurme-logo.png" group-title="TR ☪ BELGESEL",BEIN GURME FHD
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=481266&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="beingurme.tr" tvg-name="BEIN GURME HD" tvg-logo="https://tvlogo.nl/files/ch/ALBANEXYU/bein-gurme-logo.png" group-title="TR ☪ BELGESEL",BEIN GURME HD
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=481265&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="yabantv.tr" tvg-name="YABAN TV FHD" tvg-logo="https://tvlogo.nl/files/ch/TR/yaban_tv.png" group-title="TR ☪ BELGESEL",YABAN TV FHD
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=481262&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="yabantv.tr" tvg-name="YABAN TV HD" tvg-logo="https://tvlogo.nl/files/ch/TR/yaban_tv.png" group-title="TR ☪ BELGESEL",YABAN TV HD
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=481261&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TARIM TURK TV FHD" tvg-logo="https://tvlogo.nl/files/ch/TR/tarim_turk.png" group-title="TR ☪ BELGESEL",TARIM TURK TV FHD
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=481260&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="tarimtv.tr" tvg-name="TARIM TURK TV HD" tvg-logo="https://tvlogo.nl/files/ch/TR/tarim_turk.png" group-title="TR ☪ BELGESEL",TARIM TURK TV HD
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=481259&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="ÇIFTÇI TV HD" tvg-logo="https://tvlogo.nl/files/ch/TR/ciftci_tv.png" group-title="TR ☪ BELGESEL",ÇIFTÇI TV HD
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=481258&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="ÇIFTÇI TV" tvg-logo="https://tvlogo.nl/files/ch/TR/ciftci_tv.png" group-title="TR ☪ BELGESEL",ÇIFTÇI TV
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=481257&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="KÖY TV HD" tvg-logo="https://tvlogo.nl/files/ch/TR/koy_tv.png" group-title="TR ☪ BELGESEL",KÖY TV HD
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=481256&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="KÖY TV" tvg-logo="https://tvlogo.nl/files/ch/TR/koy_tv.png" group-title="TR ☪ BELGESEL",KÖY TV
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=481255&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="trtbelgesel.tr" tvg-name="TGRT BELGESEL HD" tvg-logo="https://tvlogo.nl/files/ch/TR/tgrt_belgesel.png" group-title="TR ☪ BELGESEL",TGRT BELGESEL HD
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=481254&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TGRT BELGESEL" tvg-logo="https://tvlogo.nl/files/ch/TR/tgrt_belgesel.png" group-title="TR ☪ BELGESEL",TGRT BELGESEL
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=481253&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="✦●✦ SPECIAL BOX TR BELGESEL ✦●✦" tvg-logo="https://i.imgur.com/l5tRr1k.png" group-title="TR ☪ BELGESEL",✦●✦ SPECIAL BOX TR BELGESEL ✦●✦
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=216447&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="DOCU 24/7 BELGESEL 1" tvg-logo="https://i.imgur.com/l5tRr1k.png" group-title="TR ☪ BELGESEL",DOCU 24/7 BELGESEL 1
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=216448&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="DOCU 24/7 BELGESEL 2" tvg-logo="https://i.imgur.com/l5tRr1k.png" group-title="TR ☪ BELGESEL",DOCU 24/7 BELGESEL 2
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=216449&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="DOCU 24/7 BELGESEL 3" tvg-logo="https://i.imgur.com/l5tRr1k.png" group-title="TR ☪ BELGESEL",DOCU 24/7 BELGESEL 3
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=216450&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="DOCU 24/7 BELGESEL 4" tvg-logo="https://i.imgur.com/l5tRr1k.png" group-title="TR ☪ BELGESEL",DOCU 24/7 BELGESEL 4
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=216451&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="DOCU 24/7 BELGESEL 5" tvg-logo="https://i.imgur.com/l5tRr1k.png" group-title="TR ☪ BELGESEL",DOCU 24/7 BELGESEL 5
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=216452&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="DOCU 24/7 BELGESEL 6" tvg-logo="https://i.imgur.com/l5tRr1k.png" group-title="TR ☪ BELGESEL",DOCU 24/7 BELGESEL 6
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=216453&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="DOCU 24/7 BELGESEL 7" tvg-logo="https://i.imgur.com/l5tRr1k.png" group-title="TR ☪ BELGESEL",DOCU 24/7 BELGESEL 7
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=216454&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="DOCU 24/7 BELGESEL 8" tvg-logo="https://i.imgur.com/l5tRr1k.png" group-title="TR ☪ BELGESEL",DOCU 24/7 BELGESEL 8
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=216455&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="DOCU 24/7 BELGESEL 9" tvg-logo="https://i.imgur.com/l5tRr1k.png" group-title="TR ☪ BELGESEL",DOCU 24/7 BELGESEL 9
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=216456&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="DOCU 24/7 BELGESEL 10" tvg-logo="https://i.imgur.com/l5tRr1k.png" group-title="TR ☪ BELGESEL",DOCU 24/7 BELGESEL 10
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=216457&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="✦●✦ BEIN SPORTS ✦●✦" tvg-logo="https://www.lyngsat.com/logo/flag/az/tr.png" group-title="TR ☪ BEIN SPORTS",✦●✦ BEIN SPORTS ✦●✦
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=2192&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="SPOR EKRANI" tvg-logo="https://i.ibb.co/M78MymF/afawfaw.png" group-title="TR ☪ BEIN SPORTS",SPOR EKRANI
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=490688&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="beinsportsmax1.tr" tvg-name="BESIKTAS vs TRABZONSPOR" tvg-logo="https://i.ibb.co/nDp7kf3/bjkksmps.webp" group-title="TR ☪ BEIN SPORTS",BESIKTAS vs TRABZONSPOR
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=2216&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="beinsportshaber.tr" tvg-name="BEIN SPORTS HABER HEVC" tvg-logo="https://tvlogo.nl/files/ch/hoca/spor/bhaber.png" group-title="TR ☪ BEIN SPORTS",BEIN SPORTS HABER HEVC
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=2193&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="beinsportshaber.tr" tvg-name="BEIN SPORTS HABER FHD" tvg-logo="https://tvlogo.nl/files/ch/hoca/spor/bhaber.png" group-title="TR ☪ BEIN SPORTS",BEIN SPORTS HABER FHD
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=2194&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="beinsportshaber.tr" tvg-name="BEIN SPORTS HABER HD" tvg-logo="https://tvlogo.nl/files/ch/hoca/spor/bhaber.png" group-title="TR ☪ BEIN SPORTS",BEIN SPORTS HABER HD
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=2195&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="beinsports1.tr" tvg-name="↺BEIN SPORTS 1 HEVC" tvg-logo="https://tvlogo.nl/files/ch/hoca/spor/Bein1.png" group-title="TR ☪ BEIN SPORTS",↺BEIN SPORTS 1 HEVC
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=2197&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="beinsports1.tr" tvg-name="BEIN SPORTS 1 EUROPA" tvg-logo="https://tvlogo.nl/files/ch/hoca/spor/Bein1.png" group-title="TR ☪ BEIN SPORTS",BEIN SPORTS 1 EUROPA
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=490928&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="beinsports1.tr" tvg-name="BEIN SPORTS 1 FHD" tvg-logo="https://tvlogo.nl/files/ch/hoca/spor/Bein1.png" group-title="TR ☪ BEIN SPORTS",BEIN SPORTS 1 FHD
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=2198&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="beinsports1.tr" tvg-name="BEIN SPORTS 1 HD" tvg-logo="https://tvlogo.nl/files/ch/hoca/spor/Bein1.png" group-title="TR ☪ BEIN SPORTS",BEIN SPORTS 1 HD
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=2199&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="beinsports1.tr" tvg-name="BEIN SPORTS  1 RAW" tvg-logo="https://tvlogo.nl/files/ch/hoca/spor/Bein1.png" group-title="TR ☪ BEIN SPORTS",BEIN SPORTS  1 RAW
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=423873&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="beinsports1.tr" tvg-name="BEIN SPORTS 1 DIGIPLAY" tvg-logo="https://tvlogo.nl/files/ch/hoca/spor/Bein1.png" group-title="TR ☪ BEIN SPORTS",BEIN SPORTS 1 DIGIPLAY
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=2202&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="BEIN SPORTS 1 MOBILE" tvg-logo="https://tvlogo.nl/files/ch/hoca/spor/Bein1.png" group-title="TR ☪ BEIN SPORTS",BEIN SPORTS 1 MOBILE
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=2201&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="beinsports2.tr" tvg-name="↺BEIN SPORTS 2 HEVC" tvg-logo="https://tvlogo.nl/files/ch/hoca/spor/Bein2.png" group-title="TR ☪ BEIN SPORTS",↺BEIN SPORTS 2 HEVC
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=2205&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="beinsports2.tr" tvg-name="BEIN SPORTS 2 FHD" tvg-logo="https://tvlogo.nl/files/ch/hoca/spor/Bein2.png" group-title="TR ☪ BEIN SPORTS",BEIN SPORTS 2 FHD
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=2206&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="beinsports2.tr" tvg-name="BEIN SPORTS 2 HD" tvg-logo="https://tvlogo.nl/files/ch/hoca/spor/Bein2.png" group-title="TR ☪ BEIN SPORTS",BEIN SPORTS 2 HD
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=2207&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="beinsports3.tr" tvg-name="↺BEIN SPORTS 3 HEVC" tvg-logo="https://tvlogo.nl/files/ch/hoca/spor/Bein3.png" group-title="TR ☪ BEIN SPORTS",↺BEIN SPORTS 3 HEVC
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=491883&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="beinsports3.tr" tvg-name="BEIN SPORTS 3 FHD" tvg-logo="https://tvlogo.nl/files/ch/hoca/spor/Bein3.png" group-title="TR ☪ BEIN SPORTS",BEIN SPORTS 3 FHD
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=2209&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="beinsports3.tr" tvg-name="BEIN SPORTS 3 HD" tvg-logo="https://tvlogo.nl/files/ch/hoca/spor/Bein3.png" group-title="TR ☪ BEIN SPORTS",BEIN SPORTS 3 HD
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=2210&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="beinsports4.tr" tvg-name="↺BEIN SPORTS 4 HEVC" tvg-logo="https://tvlogo.nl/files/ch/hoca/spor/Bein4.png" group-title="TR ☪ BEIN SPORTS",↺BEIN SPORTS 4 HEVC
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=491884&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="beinsports4.tr" tvg-name="BEIN SPORTS 4 FHD" tvg-logo="https://tvlogo.nl/files/ch/hoca/spor/Bein4.png" group-title="TR ☪ BEIN SPORTS",BEIN SPORTS 4 FHD
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=2212&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="beinsports4.tr" tvg-name="BEIN SPORTS 4 HD" tvg-logo="https://tvlogo.nl/files/ch/hoca/spor/Bein4.png" group-title="TR ☪ BEIN SPORTS",BEIN SPORTS 4 HD
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=2213&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="beinsport5.tr" tvg-name="BEIN SPORTS 5 FHD" tvg-logo="https://tvlogo.nl/files/ch/hoca/spor/Bein5.png" group-title="TR ☪ BEIN SPORTS",BEIN SPORTS 5 FHD
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=210061&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="beinsport5.tr" tvg-name="↺BEIN SPORTS 5 HEVC" tvg-logo="https://tvlogo.nl/files/ch/hoca/spor/Bein5.png" group-title="TR ☪ BEIN SPORTS",↺BEIN SPORTS 5 HEVC
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=491885&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="beinsportsmax1.tr" tvg-name="BEIN SPORTS MAX 1 FHD" tvg-logo="https://tvlogo.nl/files/ch/hoca/spor/Beinmax1.png" group-title="TR ☪ BEIN SPORTS",BEIN SPORTS MAX 1 FHD
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=2215&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="beinsportsmax2.tr" tvg-name="BEIN SPORTS MAX 2 FHD" tvg-logo="https://tvlogo.nl/files/ch/hoca/spor/Beinmax2.png" group-title="TR ☪ BEIN SPORTS",BEIN SPORTS MAX 2 FHD
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=2217&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="beinsportsmax2.tr" tvg-name="BEIN SPORTS MAX 2 HD" tvg-logo="https://tvlogo.nl/files/ch/hoca/spor/Beinmax2.png" group-title="TR ☪ BEIN SPORTS",BEIN SPORTS MAX 2 HD
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=2218&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="✦●✦ TFF 2.LİG ✦●✦" tvg-logo="https://www.lyngsat.com/logo/flag/az/tr.png" group-title="TR ☪ BEIN SPORTS",✦●✦ TFF 2.LİG ✦●✦
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=493409&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="SPOR EKRANI" tvg-logo="https://i.imgur.com/JjR5HYM.png" group-title="TR ☪ BEIN SPORTS FEED",SPOR EKRANI
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=490689&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="EXTRASPORT FEED" tvg-logo="https://i.imgur.com/kL41JsM.png" group-title="TR ☪ BEIN SPORTS FEED",EXTRASPORT FEED
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=263&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="XC SPECIAL FEED" tvg-logo="https://i.imgur.com/pPu1wWD.png" group-title="TR ☪ BEIN SPORTS FEED",XC SPECIAL FEED
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=507683&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Betorro Sport FEED" tvg-logo="https://i.imgur.com/JggKfaK.png" group-title="TR ☪ BEIN SPORTS FEED",Betorro Sport FEED
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=500052&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="SHARE2BOX SPORT 01" tvg-logo="https://i.imgur.com/KF3pnwJ.png" group-title="TR ☪ BEIN SPORTS FEED",SHARE2BOX SPORT 01
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=233548&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="SHARE2BOX SPORT 02" tvg-logo="https://i.imgur.com/KF3pnwJ.png" group-title="TR ☪ BEIN SPORTS FEED",SHARE2BOX SPORT 02
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=233549&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="EKSTRA FEED 1 FHD" tvg-logo="https://i.imgur.com/SDkokM7.png" group-title="TR ☪ BEIN SPORTS FEED",EKSTRA FEED 1 FHD
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=490681&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="EKSTRA FEED 1 HD" tvg-logo="https://i.imgur.com/JqRuw7O.png" group-title="TR ☪ BEIN SPORTS FEED",EKSTRA FEED 1 HD
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=490682&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="EKSTRA FEED 2 FHD" tvg-logo="https://i.imgur.com/SDkokM7.png" group-title="TR ☪ BEIN SPORTS FEED",EKSTRA FEED 2 FHD
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=490683&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="EKSTRA FEED 2 HD" tvg-logo="https://i.imgur.com/JqRuw7O.png" group-title="TR ☪ BEIN SPORTS FEED",EKSTRA FEED 2 HD
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=490684&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="NEFER SPORTS FEED" tvg-logo="https://i.imgur.com/Njmp7JP.png" group-title="TR ☪ BEIN SPORTS FEED",NEFER SPORTS FEED
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=490687&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="GOLD SPORT 1 FEED" tvg-logo="https://i.imgur.com/ITmRuam.png" group-title="TR ☪ BEIN SPORTS FEED",GOLD SPORT 1 FEED
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=227181&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="✦●✦ HABER ✦●✦" tvg-logo="https://www.lyngsat.com/logo/flag/az/tr.png" group-title="TR ☪ HABER",✦●✦ HABER ✦●✦
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=2087&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="trthaber.tr" tvg-name="TRT HABER FHD" tvg-logo="https://tvlogo.nl/files/ch/TR/trt_haber.png" group-title="TR ☪ HABER",TRT HABER FHD
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=481358&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="trthaber.tr" tvg-name="TRT HABER HD" tvg-logo="https://tvlogo.nl/files/ch/TR/trt_haber.png" group-title="TR ☪ HABER",TRT HABER HD
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=481357&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="ahaber.tr" tvg-name="A HABER FHD" tvg-logo="https://tvlogo.nl/files/ch/TR/Ahaber_Logo.png" group-title="TR ☪ HABER",A HABER FHD
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=481356&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="ahaber.tr" tvg-name="A HABER HD" tvg-logo="https://tvlogo.nl/files/ch/TR/Ahaber_Logo.png" group-title="TR ☪ HABER",A HABER HD
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=481355&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="cnnturk.tr" tvg-name="CNN TURK FHD" tvg-logo="https://tvlogo.nl/files/ch/TR/cnn_turk.png" group-title="TR ☪ HABER",CNN TURK FHD
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=481354&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="cnnturk.tr" tvg-name="CNN TURK HD" tvg-logo="https://tvlogo.nl/files/ch/TR/cnn_turk.png" group-title="TR ☪ HABER",CNN TURK HD
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=481353&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="halk.tr" tvg-name="HALK TV FHD" tvg-logo="https://tvlogo.nl/files/ch/TR/halk_tv.png" group-title="TR ☪ HABER",HALK TV FHD
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=481352&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="halk.tr" tvg-name="HALK TV HD" tvg-logo="https://tvlogo.nl/files/ch/TR/halk_tv.png" group-title="TR ☪ HABER",HALK TV HD
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=481351&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="haberturk.tr" tvg-name="HABER TURK FHD" tvg-logo="https://tvlogo.nl/files/ch/TR/haberturk.png" group-title="TR ☪ HABER",HABER TURK FHD
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=481350&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="haberturk.tr" tvg-name="HABER TURK HD" tvg-logo="https://tvlogo.nl/files/ch/TR/haberturk.png" group-title="TR ☪ HABER",HABER TURK HD
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=481349&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="haberglobal.tr" tvg-name="HABER GLOBAL FHD" tvg-logo="https://tvlogo.nl/files/ch/TR/haber_global.png" group-title="TR ☪ HABER",HABER GLOBAL FHD
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=481348&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="haberglobal.tr" tvg-name="HABER GLOBAL HD" tvg-logo="https://tvlogo.nl/files/ch/TR/haber_global.png" group-title="TR ☪ HABER",HABER GLOBAL HD
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=481347&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="ntv.tr" tvg-name="NTV FHD" tvg-logo="https://tvlogo.nl/files/ch/TR/ntv_haber.png" group-title="TR ☪ HABER",NTV FHD
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=481346&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="ntv.tr" tvg-name="NTV HD" tvg-logo="https://tvlogo.nl/files/ch/TR/ntv_haber.png" group-title="TR ☪ HABER",NTV HD
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=481345&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="tv100.tr" tvg-name="TV 100 FHD" tvg-logo="https://tvlogo.nl/files/ch/TR/tv_100.png" group-title="TR ☪ HABER",TV 100 FHD
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=481344&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="tv100.tr" tvg-name="TV 100 HD" tvg-logo="https://tvlogo.nl/files/ch/TR/tv_100.png" group-title="TR ☪ HABER",TV 100 HD
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=481343&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="ntv.tr" tvg-name="AKIT TV FHD" tvg-logo="https://tvlogo.nl/files/ch/TR/akit_tv.png" group-title="TR ☪ HABER",AKIT TV FHD
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=481342&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AKIT TV HD" tvg-logo="https://tvlogo.nl/files/ch/TR/akit_tv.png" group-title="TR ☪ HABER",AKIT TV HD
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=481341&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="24.tr" tvg-name="24 TV FHD" tvg-logo="https://tvlogo.nl/files/ch/TR/24_tv.png" group-title="TR ☪ HABER",24 TV FHD
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=481340&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="24.tr" tvg-name="24 TV HD" tvg-logo="https://tvlogo.nl/files/ch/TR/24_tv.png" group-title="TR ☪ HABER",24 TV HD
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=481339&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="tele1.tr" tvg-name="TELE 1 FHD" tvg-logo="https://tvlogo.nl/files/ch/TR/tele_1.png" group-title="TR ☪ HABER",TELE 1 FHD
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=481338&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="tele1.tr" tvg-name="TELE 1 HD" tvg-logo="https://tvlogo.nl/files/ch/TR/tele_1.png" group-title="TR ☪ HABER",TELE 1 HD
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=481337&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="krt.tr" tvg-name="KRT TV FHD" tvg-logo="https://tvlogo.nl/files/ch/TR/krt.png" group-title="TR ☪ HABER",KRT TV FHD
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=481336&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="krt.tr" tvg-name="KRT TV HD" tvg-logo="https://tvlogo.nl/files/ch/TR/krt.png" group-title="TR ☪ HABER",KRT TV HD
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=481335&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="SOZCU TV FHD" tvg-logo="https://tvlogo.nl/files/ch/TR/SZC_TV.png" group-title="TR ☪ HABER",SOZCU TV FHD
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=481334&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="SOZCU TV HD" tvg-logo="https://tvlogo.nl/files/ch/TR/SZC_TV.png" group-title="TR ☪ HABER",SOZCU TV HD
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=481333&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="ulketv.tr" tvg-name="ULKE TV FHD" tvg-logo="https://tvlogo.nl/files/ch/TR/ulke_tv.png" group-title="TR ☪ HABER",ULKE TV FHD
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=481332&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="ulketv.tr" tvg-name="ULKE TV HD" tvg-logo="https://tvlogo.nl/files/ch/TR/ulke_tv.png" group-title="TR ☪ HABER",ULKE TV HD
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=481331&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="bloomberght.tr" tvg-name="FLASH HABER FHD" tvg-logo="https://tvlogo.nl/files/ch/TR/FLASH_HABER.png" group-title="TR ☪ HABER",FLASH HABER FHD
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=481330&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="FLASH HABER HD" tvg-logo="https://tvlogo.nl/files/ch/TR/FLASH_HABER.png" group-title="TR ☪ HABER",FLASH HABER HD
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=481329&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="ulusalkanal.tr" tvg-name="ULUSAL KANAL FHD" tvg-logo="https://tvlogo.nl/files/ch/TR/ulusal_tv.png" group-title="TR ☪ HABER",ULUSAL KANAL FHD
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=481328&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="ulusalkanal.tr" tvg-name="ULUSAL KANAL HD" tvg-logo="https://tvlogo.nl/files/ch/TR/ulusal_tv.png" group-title="TR ☪ HABER",ULUSAL KANAL HD
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=481327&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="bloomberght.tr" tvg-name="BLOOMBERG HT FHD" tvg-logo="https://tvlogo.nl/files/ch/TR/bloombeerg_ht.png" group-title="TR ☪ HABER",BLOOMBERG HT FHD
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=481326&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="bloomberght.tr" tvg-name="BLOOMBERG HT HD" tvg-logo="https://tvlogo.nl/files/ch/TR/bloombeerg_ht.png" group-title="TR ☪ HABER",BLOOMBERG HT HD
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=481325&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="LIDER HABER FHD" tvg-logo="https://tvlogo.nl/files/ch/TR/liderhaber.png" group-title="TR ☪ HABER",LIDER HABER FHD
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=481324&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="LIDER HABER HD" tvg-logo="https://tvlogo.nl/files/ch/TR/liderhaber.png" group-title="TR ☪ HABER",LIDER HABER HD
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=481323&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="benguturk.tr" tvg-name="BENGUTURK FHD" tvg-logo="https://tvlogo.nl/files/ch/TR/benguturk.png" group-title="TR ☪ HABER",BENGUTURK FHD
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=481322&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="benguturk.tr" tvg-name="BENGUTURK HD" tvg-logo="https://tvlogo.nl/files/ch/TR/benguturk.png" group-title="TR ☪ HABER",BENGUTURK HD
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=481321&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="tgrthaber.tr" tvg-name="TGRT HABER FHD" tvg-logo="https://tvlogo.nl/files/ch/TR/tgrt_haber.png" group-title="TR ☪ HABER",TGRT HABER FHD
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=481320&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="tgrthaber.tr" tvg-name="TGRT HABER HD" tvg-logo="https://tvlogo.nl/files/ch/TR/tgrt_haber.png" group-title="TR ☪ HABER",TGRT HABER HD
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=481319&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="ekoturk.tr" tvg-name="EKOTURK FHD" tvg-logo="https://tvlogo.nl/files/ch/TR/ekoturk.png" group-title="TR ☪ HABER",EKOTURK FHD
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=481318&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="ekoturk.tr" tvg-name="EKOTURK HD" tvg-logo="https://tvlogo.nl/files/ch/TR/ekoturk.png" group-title="TR ☪ HABER",EKOTURK HD
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=481317&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TVNET FHD" tvg-logo="https://tvlogo.nl/files/ch/TR/TVNETHDPLUS.png" group-title="TR ☪ HABER",TVNET FHD
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=481316&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="tvnet.tr" tvg-name="TVNET HD" tvg-logo="https://tvlogo.nl/files/ch/TR/TVNETHDPLUS.png" group-title="TR ☪ HABER",TVNET HD
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=481315&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="apara.tr" tvg-name="A PARA FHD" tvg-logo="https://tvlogo.nl/files/ch/TR/a_para.png" group-title="TR ☪ HABER",A PARA FHD
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=481314&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="apara.tr" tvg-name="A PARA HD" tvg-logo="https://tvlogo.nl/files/ch/TR/a_para.png" group-title="TR ☪ HABER",A PARA HD
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=481313&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="kanalb.tr" tvg-name="KANAL B" tvg-logo="https://tvlogo.nl/files/ch/TR/kanal_b.png" group-title="TR ☪ HABER",KANAL B
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=481312&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="CAN TV" tvg-logo="https://tvlogo.nl/files/ch/TR/can_tv.png" group-title="TR ☪ HABER",CAN TV
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=481311&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="CEM TV" tvg-logo="http://boxvod.vipnova.xyz:8080/kralsin/logos/cem.png" group-title="TR ☪ HABER",CEM TV
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=481310&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="YOL TV" tvg-logo="https://tvlogo.nl/files/ch/TR/yol_tv.png" group-title="TR ☪ HABER",YOL TV
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=481309&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="UZAY HABER" tvg-logo="https://tvlogo.nl/files/ch/TR/uzay_haber.png" group-title="TR ☪ HABER",UZAY HABER
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=481308&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="tgrthaber.tr" tvg-name="TGRT EU" tvg-logo="https://tvlogo.nl/files/ch/TR/tgrt_eu.png" group-title="TR ☪ HABER",TGRT EU
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=481307&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="trtworld.tr" tvg-name="TRT WORLD FHD" tvg-logo="https://tvlogo.nl/files/ch/TR/trt_world.png" group-title="TR ☪ HABER",TRT WORLD FHD
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=481306&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="A NEWS FHD" tvg-logo="https://tvlogo.nl/files/ch/TR/a_news.png" group-title="TR ☪ HABER",A NEWS FHD
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=481305&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="KIBRIS BRT 1" tvg-logo="https://tvlogo.nl/files/ch/TR/brt_1.png" group-title="TR ☪ HABER",KIBRIS BRT 1
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=481304&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="KIBRIS BRT 2" tvg-logo="https://tvlogo.nl/files/ch/TR/brt2.png" group-title="TR ☪ HABER",KIBRIS BRT 2
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=481303&extension=m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="KIBRIS BRT 3" tvg-logo="https://tvlogo.nl/files/ch/TR/brt_3.png" group-title="TR ☪ HABER",KIBRIS BRT 3
+http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=481302&extension=m3u8
