@@ -1,4 +1,38 @@
 #EXTM3U
+#EXTINF:-1 group-title="" tvg-id="aztv-az-hd" tvg-logo="https://af-play.com/storage/images/channel_logos/aztv-az.png" catchup-source="http://bethoven.af-stream.com/aztv-az-hd/video-${start}-${duration}.m3u8?token=xftwdpd4" tvg-rec="7" catchup-days="7",AzTV HD
+http://bethoven.af-stream.com:1600/s/xftwdpd4/aztv-az-hd/video.m3u8
+#EXTINF:-1 group-title="" tvg-id="ictimai-tv-az-hd" tvg-logo="https://af-play.com/storage/images/channel_logos/ictimai-tv-az.png" catchup-source="http://bethoven.af-stream.com/ictimai-tv-az-hd/video-${start}-${duration}.m3u8?token=xftwdpd4" tvg-rec="7" catchup-days="7",Ictimai TV HD
+http://bethoven.af-stream.com:1600/s/xftwdpd4/ictimai-tv-az-hd/video.m3u8
+#EXTINF:-1 group-title="" tvg-id="xazar-tv-az-hd" tvg-logo="https://af-play.com/storage/images/channel_logos/xazar-tv-az.png" catchup-source="http://bethoven.af-stream.com/xazar-tv-az-hd/video-${start}-${duration}.m3u8?token=xftwdpd4" tvg-rec="7" catchup-days="7",Xazar TV HD
+http://bethoven.af-stream.com:1600/s/xftwdpd4/xazar-tv-az-hd/video.m3u8
+#EXTINF:-1 group-title="" tvg-id="space-tv-az-hd" tvg-logo="https://af-play.com/storage/images/channel_logos/space-tv-az.png" catchup-source="http://bethoven.af-stream.com/space-tv-az-hd/video-${start}-${duration}.m3u8?token=xftwdpd4" tvg-rec="7" catchup-days="7",Space TV HD
+http://bethoven.af-stream.com:1600/s/xftwdpd4/space-tv-az-hd/video.m3u8
+#EXTINF:-1 group-title="" tvg-id="azad-tv-az-hd" tvg-logo="https://af-play.com/storage/images/channel_logos/azad-tv-az.png" catchup-source="http://bethoven.af-stream.com/azad-tv-az-hd/video-${start}-${duration}.m3u8?token=xftwdpd4" tvg-rec="7" catchup-days="7",ATV HD AZ
+http://bethoven.af-stream.com:1600/s/xftwdpd4/azad-tv-az-hd/video.m3u8
+#EXTINF:-1 group-title="" tvg-id="arb-az-hd" tvg-logo="https://af-play.com/storage/images/pack_logos/7a5505ad2da61a13471c976e9bb74957.png" catchup-source="http://bethoven.af-stream.com/arb-az-hd/video-${start}-${duration}.m3u8?token=xftwdpd4" tvg-rec="7" catchup-days="7",ARB HD
+http://bethoven.af-stream.com:1600/s/xftwdpd4/arb-az-hd/video.m3u8
+#EXTINF:-1 group-title="" tvg-id="arb24-hd-az" tvg-logo="https://af-play.com/storage/images/pack_logos/03a652f97cc077628c745063c0519c0b.png" catchup-source="http://bethoven.af-stream.com/arb24-hd-az/video-${start}-${duration}.m3u8?token=xftwdpd4" tvg-rec="7" catchup-days="7",ARB24 HD
+http://bethoven.af-stream.com:1600/s/xftwdpd4/arb24-hd-az/video.m3u8
+#EXTINF:-1 group-title="" tvg-id="baku-az-hd" tvg-logo="https://af-play.com/storage/images/channel_logos/e0f2c5e2fc81f2dd0280b9243a3574eb.png" catchup-source="http://bethoven.af-stream.com/baku-az-hd/video-${start}-${duration}.m3u8?token=xftwdpd4" tvg-rec="7" catchup-days="7",Baku HD
+http://bethoven.af-stream.com:1600/s/xftwdpd4/baku-az-hd/video.m3u8
+#EXTINF:-1 group-title="" tvg-id="real-tv-az-hd" tvg-logo="https://af-play.com/storage/images/channel_logos/real-az.png" catchup-source="http://bethoven.af-stream.com/real-tv-az-hd/video-${start}-${duration}.m3u8?token=xftwdpd4" tvg-rec="7" catchup-days="7",Real TV HD AZ
+http://bethoven.af-stream.com:1600/s/xftwdpd4/real-tv-az-hd/video.m3u8
+#EXTINF:-1 group-title="" tvg-id="start-tv-az-hd" tvg-logo="https://af-play.com/storage/images/pack_logos/d0f0809d3420935a9bc7b6192d7c9779.png" catchup-source="http://bethoven.af-stream.com/start-tv-az-hd/video-${start}-${duration}.m3u8?token=xftwdpd4" tvg-rec="7" catchup-days="7",Start TV HD
+http://bethoven.af-stream.com:1600/s/xftwdpd4/start-tv-az-hd/video.m3u8
+#EXTINF:-1 group-title="" tvg-id="arb-gunes-az-hd" tvg-logo="https://af-play.com/storage/images/pack_logos/78a5aeb0c280f3899eb02e71d1ca0828.png" catchup-source="http://bethoven.af-stream.com/arb-gunes-az-hd/video-${start}-${duration}.m3u8?token=xftwdpd4" tvg-rec="7" catchup-days="7",ARB Gunes HD
+http://bethoven.af-stream.com:1600/s/xftwdpd4/arb-gunes-az-hd/video.m3u8
+#EXTINF:-1 group-title="" tvg-id="cbc-hd-az" tvg-logo="https://af-play.com/storage/images/channel_logos/cbc-az.png" catchup-source="http://bethoven.af-stream.com/cbc-hd-az/video-${start}-${duration}.m3u8?token=xftwdpd4" tvg-rec="7" catchup-days="7",CBC HD
+http://bethoven.af-stream.com:1600/s/xftwdpd4/cbc-hd-az/video.m3u8
+#EXTINF:-1 group-title="" tvg-id="cbc-sport-hd-az" tvg-logo="https://af-play.com/storage/images/channel_logos/cbc-sport-az.png" catchup-source="http://bethoven.af-stream.com/cbc-sport-hd-az/video-${start}-${duration}.m3u8?token=xftwdpd4" tvg-rec="7" catchup-days="7",CBC Sport HD
+http://bethoven.af-stream.com:1600/s/xftwdpd4/cbc-sport-hd-az/video.m3u8
+#EXTINF:-1 group-title="" tvg-id="muz-tv-az" tvg-logo="https://af-play.com/storage/images/channel_logos/06be073ccc2ad012557f71eb0c3c73c6.png" catchup-source="http://bethoven.af-stream.com/muz-tv-az/video-${start}-${duration}.m3u8?token=xftwdpd4" tvg-rec="7" catchup-days="7",MTV Azerbaycan
+http://bethoven.af-stream.com:1600/s/xftwdpd4/muz-tv-az/video.m3u8
+#EXTINF:-1 group-title="" tvg-id="dunya-tv-az" tvg-logo="https://af-play.com/storage/images/channel_logos/dunya-tv-az.png" catchup-source="http://bethoven.af-stream.com/dunya-tv-az/video-${start}-${duration}.m3u8?token=xftwdpd4" tvg-rec="7" catchup-days="7",Dunya TV
+http://bethoven.af-stream.com:1600/s/xftwdpd4/dunya-tv-az/video.m3u8
+#EXTINF:-1 group-title="" tvg-id="medeniyyet-az-hd" tvg-logo="https://af-play.com/storage/images/channel_logos/88af544c45d59341690bd227d7615df8.png" catchup-source="http://bethoven.af-stream.com/medeniyyet-az-hd/video-${start}-${duration}.m3u8?token=xftwdpd4" tvg-rec="7" catchup-days="7",Medeniyyet TV HD
+http://bethoven.af-stream.com:1600/s/xftwdpd4/medeniyyet-az-hd/video.m3u8
+#EXTINF:-1 group-title="" tvg-id="idman-az-hd" tvg-logo="https://af-play.com/storage/images/channel_logos/1b2eaf4b86b5a30cb74316f1a55c9954.png" catchup-source="http://bethoven.af-stream.com/idman-az-hd/video-${start}-${duration}.m3u8?token=xftwdpd4" tvg-rec="7" catchup-days="7",Idman Azerbaycan HD
+http://bethoven.af-stream.com:1600/s/xftwdpd4/idman-az-hd/video.m3u8
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="✦●✦ ULUSAL ✦●✦" tvg-logo="https://i.imgur.com/PwUVpX0.png" group-title="TR ☪ ULUSAL",✦●✦ ULUSAL ✦●✦
 http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=488700&extension=m3u8
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="trt4k.tr" tvg-name="TRT 4K UHD 2160p" tvg-logo="https://i.imgur.com/PMwY7gq.png" group-title="TR ☪ ULUSAL",TRT 4K UHD 2160p
