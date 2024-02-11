@@ -33,8 +33,6 @@ http://bethoven.af-stream.com:1600/s/xftwdpd4/dunya-tv-az/video.m3u8
 http://bethoven.af-stream.com:1600/s/xftwdpd4/medeniyyet-az-hd/video.m3u8
 #EXTINF:-1 group-title="Azərbaycan" tvg-id="idman-az-hd" tvg-logo="https://af-play.com/storage/images/channel_logos/1b2eaf4b86b5a30cb74316f1a55c9954.png" catchup-source="http://bethoven.af-stream.com/idman-az-hd/video-${start}-${duration}.m3u8?token=xftwdpd4" tvg-rec="7" catchup-days="7",Idman Azerbaycan HD
 http://bethoven.af-stream.com:1600/s/xftwdpd4/idman-az-hd/video.m3u8
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="✦●✦ ULUSAL ✦●✦" tvg-logo="https://i.imgur.com/PwUVpX0.png" group-title="TR ☪ ULUSAL",✦●✦ ULUSAL ✦●✦
-http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=488700&extension=m3u8
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="trt4k.tr" tvg-name="TRT 4K UHD 2160p" tvg-logo="https://i.imgur.com/PMwY7gq.png" group-title="TR ☪ ULUSAL",TRT 4K UHD 2160p
 http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=1841&extension=m3u8
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="trt4k.tr" tvg-name="TRT 4K FHD" tvg-logo="https://i.imgur.com/GQvmKSx.png" group-title="TR ☪ ULUSAL",TRT 4K FHD
@@ -145,8 +143,6 @@ http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=1893&exten
 http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=1894&extension=m3u8
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="trtebatvlise.tr" tvg-name="TRT EBA LISE" tvg-logo="https://i.imgur.com/Tigkwyw.png" group-title="TR ☪ ULUSAL",TRT EBA LISE
 http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=1895&extension=m3u8
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="✦●✦ QHD ✦●✦" tvg-logo="https://i.imgur.com/PwUVpX0.png" group-title="TR ☪ QHD",✦●✦ QHD ✦●✦
-http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=268153&extension=m3u8
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="trt1.tr" tvg-name="TRT 1 QHD" tvg-logo="https://i.imgur.com/LyDEUYo.png" group-title="TR ☪ QHD",TRT 1 QHD
 http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=268106&extension=m3u8
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="atv.tr" tvg-name="ATV QHD" tvg-logo="https://i.imgur.com/FM3BgVn.png" group-title="TR ☪ QHD",ATV QHD
@@ -219,8 +215,6 @@ http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=268142&ext
 http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=268150&extension=m3u8
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="sinema1002.tr" tvg-name="SINEMA TV 1002 QHD" tvg-logo="https://i.imgur.com/dUR0TGP.png" group-title="TR ☪ QHD",SINEMA TV 1002 QHD
 http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=268152&extension=m3u8
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="✦●✦ HEVC | RAW ✦●✦" tvg-logo="https://i.imgur.com/PwUVpX0.png" group-title="TR ☪ HEVC",✦●✦ HEVC | RAW ✦●✦
-http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=1945&extension=m3u8
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="trt1.tr" tvg-name="↺TRT 1 HEVC" tvg-logo="https://i.imgur.com/H82KqCU.png" group-title="TR ☪ HEVC",↺TRT 1 HEVC
 http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=1947&extension=m3u8
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="atv.tr" tvg-name="↺ATV HEVC" tvg-logo="https://i.imgur.com/b414nTE.png" group-title="TR ☪ HEVC",↺ATV HEVC
@@ -355,8 +349,6 @@ http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=437550&ext
 http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=437546&extension=m3u8
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="NATURE ESCAPE RAW" tvg-logo="https://i.imgur.com/M7MFfdW.png" group-title="TR ☪ HEVC",NATURE ESCAPE RAW
 http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=437547&extension=m3u8
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="✦●✦ SPOR ✦●✦" tvg-logo="https://www.lyngsat.com/logo/flag/az/tr.png" group-title="TR ☪ SPOR",✦●✦ SPOR ✦●✦
-http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=2013&extension=m3u8
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Galatasaray v Fenerbahçe (Super Cup Final)" tvg-logo="https://i.ibb.co/Y8wmGWC/kup.webp" group-title="TR ☪ SPOR",Galatasaray v Fenerbahçe (Super Cup Final)
 http://amster9297.pro:8080/play/live.php?mac=00:1A:79:00:02:4B&stream=497793&extension=m3u8
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="SPOR: Hangi Maç Hangi Kanalda ?" tvg-logo="https://i.ibb.co/M78MymF/afawfaw.png" group-title="TR ☪ SPOR",SPOR: Hangi Maç Hangi Kanalda ?
