@@ -19,6 +19,8 @@ http://bethoven.af-stream.com:1600/s/xftwdpd4/baku-az-hd/video.m3u8
 http://bethoven.af-stream.com:1600/s/xftwdpd4/real-tv-az-hd/video.m3u8
 #EXTINF:-1 group-title="Azərbaycan" tvg-id="start-tv-az-hd" tvg-logo="https://af-play.com/storage/images/pack_logos/d0f0809d3420935a9bc7b6192d7c9779.png" catchup-source="http://bethoven.af-stream.com/start-tv-az-hd/video-${start}-${duration}.m3u8?token=xftwdpd4" tvg-rec="7" catchup-days="7",Start TV HD
 http://bethoven.af-stream.com:1600/s/xftwdpd4/start-tv-az-hd/video.m3u8
+#EXTINF:-1 group-title="Azərbaycan" tvg-id="kepez" tvg-logo="http://kepeztv.az/sites/default/files/fv_new.png" catchup-source="" tvg-rec="7" catchup-days="7", Kəpəz
+http://85.132.81.184:8080/arbkepez/live/index.m3u8
 #EXTINF:-1 group-title="Azərbaycan" tvg-id="arb-gunes-az-hd" tvg-logo="https://af-play.com/storage/images/pack_logos/78a5aeb0c280f3899eb02e71d1ca0828.png" catchup-source="http://bethoven.af-stream.com/arb-gunes-az-hd/video-${start}-${duration}.m3u8?token=xftwdpd4" tvg-rec="7" catchup-days="7",ARB Gunes HD
 http://bethoven.af-stream.com:1600/s/xftwdpd4/arb-gunes-az-hd/video.m3u8
 #EXTINF:-1 group-title="Azərbaycan" tvg-id="cbc-hd-az" tvg-logo="https://af-play.com/storage/images/channel_logos/cbc-az.png" catchup-source="http://bethoven.af-stream.com/cbc-hd-az/video-${start}-${duration}.m3u8?token=xftwdpd4" tvg-rec="7" catchup-days="7",CBC HD
