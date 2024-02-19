@@ -214,7 +214,7 @@ https://dogus.daioncdn.net/startv/startv_720p.m3u8?app=startv_web
 https://beyaztv.blutv.com/blutv_beyaztv_live/live.m3u8
 #EXTINF:-1 tvg-name="♨️TV 8" tvg-logo="https://app.playlistbox.com/icon/dbPpzO3N2aBrqlovnqoy1vm7j4wQWYnR.png" group-title="🇹🇷", ♨️TV 8
 #EXTGRP:🇹🇷
-https://tv8-live.daioncdn.net/tv8/tv8_1080p.m3u8
+https://tv8-live.daioncdn.net/tv8/tv8_720p.m3u8
 #EXTINF:-1 tvg-name="♨️TV 8`5" tvg-logo="https://app.playlistbox.com/icon/mrKve0kgRq96yxLYzaMQjNld35WLBJ1w.png" group-title="🇹🇷", ♨️TV 8`5
 #EXTGRP:🇹🇷
 http://50.7.218.122:8080/tv85/index.m3u8
