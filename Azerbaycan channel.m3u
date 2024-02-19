@@ -197,9 +197,6 @@ https://tv-trt1.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-name="♨️TRT 2" tvg-logo="https://app.playlistbox.com/icon/2q94OaJj6rD5gYx84Vx1ELBXGWRzPQ0A.png" group-title="🇹🇷", ♨️TRT 2
 #EXTGRP:🇹🇷
 https://trt2.blutv.com/blutv_trt2/live.m3u8
-#EXTINF:-1 tvg-name="♨️TRT 2" tvg-logo="https://app.playlistbox.com/icon/2q94OaJj6rD5gYx84Vx1ELBXGWRzPQ0A.png" group-title="🇹🇷", ♨️TRT 2
-#EXTGRP:🇹🇷
-https://tv-trt2.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-name="♨️ATV" tvg-logo="https://app.playlistbox.com/icon/YlRXp9zJO7B0WeZ1Jyo68y35DwQnGrjA.png" group-title="🇹🇷", ♨️ATV
 #EXTGRP:🇹🇷
 http://hw1.jemtv.com/app/ATVHD/chunks.m3u8
