@@ -5,19 +5,19 @@ http://88.99.66.6:8080/str.yodacdn.net/aztv/tracks-v1a1/mono.m3u8?token=f3215d55
 #EXTINF:-1 timeshift="0" tvg-name="⚜️Ictimai TV" tvg-logo="https://app.playlistbox.com/icon/mLqEygb36eAPXvx4vGZw1B4J20a7VGdn.png" group-title="🇦🇿", ⚜️Ictimai TV
 #EXTGRP:🇦🇿
 https://edge02.odtv.az/o1/ictimai/playlist.m3u8
-#EXTINF:-1 timeshift="0" tvg-name="⚜️Ictimai TV🔸" tvg-logo="https://app.playlistbox.com/icon/mLqEygb36eAPXvx4vGZw1B4J20a7VGdn.png" group-title="🇦🇿", ⚜️Ictimai TV🔸
+#EXTINF:-1 timeshift="0" tvg-name="⚜️Ictimai TV" tvg-logo="https://app.playlistbox.com/icon/mLqEygb36eAPXvx4vGZw1B4J20a7VGdn.png" group-title="🇦🇿", ⚜️Ictimai TV🔸
 #EXTGRP:🇦🇿
 http://edge02.odtv.az/o1/ictimai/playlist.m3u8
 #EXTINF:-1 timeshift="0" tvg-id="space-tv" tvg-name="⚜️Space TV" tvg-logo="https://app.playlistbox.com/icon/lNqyYR0G5WKaBVxbOYM9wmD7pjLP28OE.png" group-title="🇦🇿", ⚜️Space TV
 #EXTGRP:🇦🇿
 http://88.99.66.6:8080/str.yodacdn.net/space/tracks-v1a1/mono.m3u8?token=f3215d55e722954033783f3dd4ea88b87c9a22e7-e81fa0fa6395f13455d0eddddc72eb33-1664271536-1664260736
-#EXTINF:-1 timeshift="0" tvg-name="⚜️Space TV🔸" tvg-logo="https://app.playlistbox.com/icon/lNqyYR0G5WKaBVxbOYM9wmD7pjLP28OE.png" group-title="🇦🇿", ⚜️Space TV🔸
+#EXTINF:-1 timeshift="0" tvg-name="⚜️Space TV" tvg-logo="https://app.playlistbox.com/icon/lNqyYR0G5WKaBVxbOYM9wmD7pjLP28OE.png" group-title="🇦🇿", ⚜️Space TV🔸
 #EXTGRP:🇦🇿
 http://edge02.odtv.az/o1/space/playlist.m3u8
 #EXTINF:-1 timeshift="0" tvg-name="⚜️ATV" tvg-logo="https://app.playlistbox.com/icon/PmrKve0kgRq96yxLdaxQjNld35WLBJ1w.png" group-title="🇦🇿", ⚜️ATV
 #EXTGRP:🇦🇿
 http://88.99.66.6:8080/str.yodacdn.net/atv/tracks-v1a1/mono.m3u8?token=f3215d55e722954033783f3dd4ea88b87c9a22e7-e81fa0fa6395f13455d0eddddc72eb33-1664271536-1664260736
-#EXTINF:-1 timeshift="0" tvg-name="⚜️ATV🔸" tvg-logo="https://app.playlistbox.com/icon/PmrKve0kgRq96yxLdaxQjNld35WLBJ1w.png" group-title="🇦🇿", ⚜️ATV🔸
+#EXTINF:-1 timeshift="0" tvg-name="⚜️ATV" tvg-logo="https://app.playlistbox.com/icon/PmrKve0kgRq96yxLdaxQjNld35WLBJ1w.png" group-title="🇦🇿", ⚜️ATV🔸
 #EXTGRP:🇦🇿
 http://213.172.73.170:8081/nimble_live/1007__ATV_Azerbaycan/playlist.m3u8
 #EXTINF:-1 timeshift="0" tvg-name="⚜️Xəzər TV" tvg-logo="https://app.playlistbox.com/icon/7gAKaznkE1ybVxB8PwZ0PGQ4d98RpY2O.png" group-title="🇦🇿", ⚜️Xəzər TV
@@ -29,25 +29,25 @@ http://88.99.66.6:8080/str.yodacdn.net/gunaztv/tracks-v1a1/mono.m3u8?token=f3215
 #EXTINF:-1 timeshift="0" tvg-id="cbc-az" tvg-name="⚜️CBC" tvg-logo="https://app.playlistbox.com/icon/0Yw9lbPDOG1VRKZ5vjoe8pm3LXjzgkQ2.png" group-title="🇦🇿", ⚜️CBC
 #EXTGRP:🇦🇿
 http://88.99.66.6:8080/str.yodacdn.net/cbc/tracks-v1a1/mono.m3u8?token=f3215d55e722954033783f3dd4ea88b87c9a22e7-e81fa0fa6395f13455d0eddddc72eb33-1664271536-1664260736
-#EXTINF:-1 timeshift="0" tvg-name="⚜️CBC🔸" tvg-logo="https://app.playlistbox.com/icon/0Yw9lbPDOG1VRKZ5vjoe8pm3LXjzgkQ2.png" group-title="🇦🇿", ⚜️CBC🔸
+#EXTINF:-1 timeshift="0" tvg-name="⚜️CBC" tvg-logo="https://app.playlistbox.com/icon/0Yw9lbPDOG1VRKZ5vjoe8pm3LXjzgkQ2.png" group-title="🇦🇿", ⚜️CBC🔸
 #EXTGRP:🇦🇿
 http://edge02.odtv.az/o1/cbc/playlist.m3u8
 #EXTINF:-1 timeshift="0" tvg-id="arb-tv" tvg-name="⚜️ARB TV" tvg-logo="https://app.playlistbox.com/icon/Bn6p4Ke1N5rV8ZWBwmMDl0bAWz7dvkJR.png" group-title="🇦🇿", ⚜️ARB TV
 #EXTGRP:🇦🇿
 http://88.99.66.6:8080/str.yodacdn.net/arb/tracks-v1a1/mono.m3u8?token=f3215d55e722954033783f3dd4ea88b87c9a22e7-e81fa0fa6395f13455d0eddddc72eb33-1664271536-1664260736
-#EXTINF:-1 timeshift="0" tvg-name="⚜️ARB TV🔸" tvg-logo="https://app.playlistbox.com/icon/Bn6p4Ke1N5rV8ZWBwmMDl0bAWz7dvkJR.png" group-title="🇦🇿", ⚜️ARB TV🔸
+#EXTINF:-1 timeshift="0" tvg-name="⚜️ARB TV" tvg-logo="https://app.playlistbox.com/icon/Bn6p4Ke1N5rV8ZWBwmMDl0bAWz7dvkJR.png" group-title="🇦🇿", ⚜️ARB TV🔸
 #EXTGRP:🇦🇿
 http://edge02.odtv.az/o1/arbtv/playlist.m3u8
 #EXTINF:-1 timeshift="0" tvg-name="⚜️ARB 24" tvg-logo="https://app.playlistbox.com/icon/90B7b8PKO54QkGZ6vJZNEqAYzmrVWyjg.png" group-title="🇦🇿", ⚜️ARB 24
 #EXTGRP:🇦🇿
 http://88.99.66.6:8080/str.yodacdn.net/arb24/tracks-v1a1/mono.m3u8?token=f3215d55e722954033783f3dd4ea88b87c9a22e7-e81fa0fa6395f13455d0eddddc72eb33-1664271536-1664260736
-#EXTINF:-1 timeshift="0" tvg-name="⚜️ARB 24🔸" tvg-logo="https://app.playlistbox.com/icon/90B7b8PKO54QkGZ6vJZNEqAYzmrVWyjg.png" group-title="🇦🇿", ⚜️ARB 24🔸
+#EXTINF:-1 timeshift="0" tvg-name="⚜️ARB 24" tvg-logo="https://app.playlistbox.com/icon/90B7b8PKO54QkGZ6vJZNEqAYzmrVWyjg.png" group-title="🇦🇿", ⚜️ARB 24🔸
 #EXTGRP:🇦🇿
 http://edge02.odtv.az/o7/arb24/playlist.m3u8
 #EXTINF:-1 timeshift="0" tvg-name="⚜️Mədəniyyət TV" tvg-logo="https://i.postimg.cc/qMMTf7d6/medd.jpg" group-title="🇦🇿", ⚜️Mədəniyyət TV
 #EXTGRP:🇦🇿
 http://88.99.66.6:8080/str.yodacdn.net/medeniyyet/tracks-v1a1/mono.m3u8?token=f3215d55e722954033783f3dd4ea88b87c9a22e7-e81fa0fa6395f13455d0eddddc72eb33-1664271536-1664260736
-#EXTINF:-1 timeshift="0" tvg-name="⚜️Mədəniyyət TV🔸" tvg-logo="https://i.postimg.cc/qMMTf7d6/medd.jpg" group-title="🇦🇿", ⚜️Mədəniyyət TV🔸
+#EXTINF:-1 timeshift="0" tvg-name="⚜️Mədəniyyət TV" tvg-logo="https://i.postimg.cc/qMMTf7d6/medd.jpg" group-title="🇦🇿", ⚜️Mədəniyyət TV🔸
 #EXTGRP:🇦🇿
 http://edge02.odtv.az/o1/medeniyyet/playlist.m3u8
 #EXTINF:-1 timeshift="0" tvg-name="⚜️ARB Günəş" tvg-logo="https://app.playlistbox.com/icon/8qNz762JY5OD9x0wYnoPn1eAa4GyvL0V.png" group-title="🇦🇿", ⚜️ARB Günəş
@@ -77,7 +77,7 @@ http://88.99.66.6:8080/str.yodacdn.net/qafkaz/tracks-v1a1/mono.m3u8?token=f3215d
 #EXTINF:-1 timeshift="0" tvg-name="⚜️Real TV" tvg-logo="http://troya.today/images/chIcons/1543.png" group-title="🇦🇿", ⚜️Real TV
 #EXTGRP:🇦🇿
 http://88.99.66.6:8080/str.yodacdn.net/real/tracks-v1a1/mono.m3u8?token=f3215d55e722954033783f3dd4ea88b87c9a22e7-e81fa0fa6395f13455d0eddddc72eb33-1664271536-1664260736
-#EXTINF:-1 timeshift="0" tvg-name="⚜️Real TV🔸" tvg-logo="http://troya.today/images/chIcons/1543.png" group-title="🇦🇿", ⚜️Real TV🔸
+#EXTINF:-1 timeshift="0" tvg-name="⚜️Real TV" tvg-logo="http://troya.today/images/chIcons/1543.png" group-title="🇦🇿", ⚜️Real TV🔸
 #EXTGRP:🇦🇿
 http://edge02.odtv.az/o2/realtv/playlist.m3u8
 #EXTINF:-1 timeshift="0" tvg-name="⚜️Vilayət TV" tvg-logo="https://i.postimg.cc/MHdqMfqS/logo.png" group-title="🇦🇿", ⚜️Vilayət TV
@@ -128,7 +128,7 @@ https://ssh101.bozztv.com/ssh101/showplus/chunks.m3u8
 #EXTINF:-1 timeshift="0" tvg-name="⚜️Kanal S" tvg-logo="http://troya.today/images/chIcons/1528.png" group-title="🇦🇿", ⚜️Kanal S
 #EXTGRP:🇦🇿
 https://api1.canlitvplayer.com/str.yodacdn.net/start/mono.m3u8?token=d0c3db4860913eb7824f52dd1eb1ca361e43fb0e-b5142f1be2951ec03f2a6cea34c584b8-1675939786-1675928986
-#EXTINF:-1 tvg-name="⚜️Kanal S 🔸" tvg-logo="http://troya.today/images/chIcons/1528.png" group-title="🇦🇿", ⚜️Kanal S 🔸
+#EXTINF:-1 tvg-name="⚜️Kanal S " tvg-logo="http://troya.today/images/chIcons/1528.png" group-title="🇦🇿", ⚜️Kanal S 🔸
 #EXTGRP:🇦🇿
 http://213.172.73.174:8081/nimble_live/10214_Kanal_S/playlist.m3u8
 #EXTINF:-1 timeshift="0" tvg-name="⚜️Kanal 35" tvg-logo="https://i.postimg.cc/yxnzBXzk/IMG-20230806-211947.png" group-title="🇦🇿", ⚜️Kanal 35
@@ -1155,3 +1155,36 @@ http://hls127.homeiptv.org:8880/klimillennium/video.m3u8
 #EXTINF:-1 tvg-name="⚕️KLI Drama HD" tvg-logo="https://app.playlistbox.com/icon/YgKnX27GlDPdkZGRzrMV6AOrqyjw9z1W.png" group-title="🇷🇺", ⚕️KLI Drama HD
 #EXTGRP:🇷🇺
 http://hls127.homeiptv.org:8880/klidrama/video.m3u8
+#EXTINF:-1 timeshift="0" tvg-id="idman" tvg-name="⚜️Idman" tvg-logo="https://app.playlistbox.com/icon/2q94OaJj6rD5gYx8vpZ1ELBXGWRzPQ0A.png" group-title="⚽", ⚜️Idman
+#EXTGRP:⚽
+http://str.yodacdn.net/idman/mono.m3u8
+#EXTINF:-1 timeshift="0" tvg-name="⚜️CBC SPORT HD" tvg-logo="https://app.playlistbox.com/icon/keYB3LgjD7G8WdoDzKMAXpwKq5mPJvV9.png" group-title="⚽", ⚜️CBC SPORT HD
+#EXTGRP:⚽
+https://mn-nl.mncdn.com/cbcsports_live/cbcsports/chunklist.m3u8
+#EXTINF:-1 tvg-name="⚕️МАТЧ! ФУТБОЛ 1" tvg-logo="https://app.playlistbox.com/icon/nV5EYdPgA0beWmo2n0ol2Qpvy9L6KJa3.png" group-title="⚽", ⚕️МАТЧ! ФУТБОЛ 1
+#EXTGRP:⚽
+http://213.172.73.170:8081/nimble_live/1111__Mat4_Futbol_1/playlist.m3u8
+#EXTINF:-1 tvg-name="⚕️МАТЧ! ФУТБОЛ 2" tvg-logo="https://app.playlistbox.com/icon/jk07Ev2J56XayZ70W9oArgRlD9de8NWP.png" group-title="⚽", ⚕️МАТЧ! ФУТБОЛ 2
+#EXTGRP:⚽
+http://213.172.73.170:8081/nimble_live/1065__Mat4_Futbol_2/playlist.m3u8
+#EXTINF:-1 tvg-name="⚕️МАТЧ! ФУТБОЛ 3" tvg-logo="https://app.playlistbox.com/icon/0B7b8PKO54QkGZ6KWGoNEqAYzmrVWyjg.png" group-title="⚽", ⚕️МАТЧ! ФУТБОЛ 3
+#EXTGRP:⚽
+http://213.172.73.171:8081/nimble_live/1159__Mat4_Futbol_3/playlist.m3u8
+#EXTINF:-1 tvg-name="⚕️МАТЧ! СТРАНА" tvg-logo="https://app.playlistbox.com/icon/lRXp9zJO7B0WeZ1bwQo68y35DwQnGrjA.png" group-title="⚽", ⚕️МАТЧ! СТРАНА
+#EXTGRP:⚽
+http://213.172.73.170:8081/nimble_live/1068__Mat4_Nash_Sport/playlist.m3u8
+#EXTINF:-1 tvg-name="⚕️МАТЧ! ТВ" tvg-logo="https://app.playlistbox.com/icon/8aNGL5kdnv361goad6ZXVmPjYb7BWK4E.png" group-title="⚽", ⚕️МАТЧ! ТВ
+#EXTGRP:⚽
+http://213.172.73.170:8081/nimble_live/1064__Mat4_ТВ/playlist.m3u8
+#EXTINF:-1 tvg-name="♨️BEIN SPORTS 1 HD" tvg-logo="https://app.playlistbox.com/icon/0K8XYmkqA6jOWBxP7roDE1bQl3R4Gyan.png" group-title="⚽", ♨️BEIN SPORTS 1 HD
+#EXTGRP:⚽
+https://corsproxy.org/?https://odin.7545c95540dc.shop/1/chunk_hd.m3u8
+#EXTINF:-1 tvg-name="♨️BEIN SPORTS 2 HD" tvg-logo="https://app.playlistbox.com/icon/yX2d9PpDYbRjeqxROeMn5k71JNgAKrml.png" group-title="⚽", ♨️BEIN SPORTS 2 HD
+#EXTGRP:⚽
+https://corsproxy.org/?https://odin.7545c95540dc.shop/2/chunk_hd.m3u8
+#EXTINF: -1 tvg-name="TR| S-SPORT 1 HD" tvg-logo="https://imagizer.imageshack.com/img922/2875/6kFCuk.png" group-title="⚽", ♨️S-SPORT 1 HD
+#EXTGRP:⚽
+http://103.161.34.2:8080/live/eEdCALdwG6fQ/q8Mjv8jYrB6367sh/277908.m3u8
+#EXTINF: -1 tvg-id="ssport2.tr" tvg-name="TR| S-SPORT 2 HD" tvg-logo="https://imagizer.imageshack.com/img924/2981/xvXCNE.png" group-title="⚽", ♨️S-SPORT 2 HD
+#EXTGRP:⚽
+http://103.161.34.2:8080/live/eEdCALdwG6fQ/q8Mjv8jYrB6367sh/277909.m3u8
