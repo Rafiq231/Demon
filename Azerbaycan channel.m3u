@@ -236,27 +236,9 @@ https://demiroren-live.daioncdn.net/teve2/teve2_1080p.m3u8
 #EXTINF:-1 tvg-name="♨️A2 TV" tvg-logo="https://app.playlistbox.com/icon/PmrKve0kgRq96yxLwaoQjNld35WLBJ1w.png" group-title="🇹🇷", ♨️A2 TV
 #EXTGRP:🇹🇷
 http://stream.tvcdn.net/eglence/a2.m3u8
-#EXTINF:-1 tvg-name="♨️TV 4 HD" tvg-logo="https://app.playlistbox.com/icon/5YDKwr2BqLzpgZeaXqZVW8J7GyvOXld6.png" group-title="🇹🇷", ♨️TV 4 HD
-#EXTGRP:🇹🇷
-https://turkmedya-live.ercdn.net/tv4/tv4_720p.m3u8
 #EXTINF:-1 tvg-name="♨️TRT TURK" tvg-logo="https://app.playlistbox.com/icon/38qNz762JY5OD9x0p1xPn1eAa4GyvL0V.png" group-title="🇹🇷", ♨️TRT TURK
 #EXTGRP:🇹🇷
 https://tv-trtturk.medya.trt.com.tr/master_720.m3u8
-#EXTINF:-1 tvg-name="♨️TeleOn" tvg-logo="https://i.postimg.cc/tTdqxppV/1693322086813.jpg" group-title="🇹🇷", ♨️TeleOn
-#EXTGRP:🇹🇷
-https://streaming.netdirekt.com.tr/35757/teleontv/teleonmediagroups_live_4kultrahd_lisansli/chunks.m3u8
-#EXTINF:-1 tvg-name="♨️AFYON TURK" tvg-logo="https://i.postimg.cc/d0LfgLNZ/afyonturk.jpg" group-title="🇹🇷", ♨️AFYON TURK
-#EXTGRP:🇹🇷
-https://tv.digitalbox.xyz:19360/afyonturktv/afyonturktv.m3u8
-#EXTINF:-1 tvg-name="♨️EURO D HD" tvg-logo="https://app.playlistbox.com/icon/5YDKwr2BqLzpgZe5XqZVW8J7GyvOXld6.png" group-title="🇹🇷", ♨️EURO D HD
-#EXTGRP:🇹🇷
-https://m3u-editor.com/serve/247d99c0-cc18-11ee-b227-b58fe3fd23b3/1086748900
-#EXTINF:-1 tvg-name="♨️EURO STAR HD" tvg-logo="https://app.playlistbox.com/icon/NqyYR0G5WKaBVxbpOXZ9wmD7pjLP28OE.png" group-title="🇹🇷", ♨️EURO STAR HD
-#EXTGRP:🇹🇷
-https://m3u-editor.com/serve/247d99c0-cc18-11ee-b227-b58fe3fd23b3/1086748914
-#EXTINF:-1 tvg-name="♨️ATV AVRUPA HD" tvg-logo="https://app.playlistbox.com/icon/jk07Ev2J56XayZ70v0oArgRlD9de8NWP.png" group-title="🇹🇷", ♨️ATV AVRUPA HD
-#EXTGRP:🇹🇷
-https://m3u-editor.com/serve/247d99c0-cc18-11ee-b227-b58fe3fd23b3/1086748947
 #EXTINF:-1 tvg-name="♨️TV 8 Int HD" tvg-logo="https://app.playlistbox.com/icon/YgKnX27GlDPdkZGpmEoV6AOrqyjw9z1W.png" group-title="🇹🇷", ♨️TV 8 Int HD
 #EXTGRP:🇹🇷
 https://m3u-editor.com/serve/247d99c0-cc18-11ee-b227-b58fe3fd23b3/1086748920
@@ -1035,10 +1017,10 @@ https://corsproxy.org/?https://odin.7545c95540dc.shop/1/chunk_hd.m3u8
 #EXTINF:-1 tvg-name="♨️BEIN SPORTS 2 HD" tvg-logo="https://app.playlistbox.com/icon/yX2d9PpDYbRjeqxROeMn5k71JNgAKrml.png" group-title="🇹🇷", ♨️BEIN SPORTS 2 HD
 #EXTGRP:🇹🇷
 https://corsproxy.org/?https://odin.7545c95540dc.shop/2/chunk_hd.m3u8
-#EXTINF: -1 tvg-name="TR| S-SPORT 1 HD" tvg-logo="https://imagizer.imageshack.com/img922/2875/6kFCuk.png" group-title="🇹🇷", S-SPORT 1 HD
+#EXTINF: -1 tvg-name="TR| S-SPORT 1 HD" tvg-logo="https://imagizer.imageshack.com/img922/2875/6kFCuk.png" group-title="🇹🇷", ♨️S-SPORT 1 HD
 #EXTGRP:🇹🇷
 http://103.161.34.2:8080/live/eEdCALdwG6fQ/q8Mjv8jYrB6367sh/277908.m3u8
-#EXTINF: -1 tvg-id="ssport2.tr" tvg-name="TR| S-SPORT 2 HD" tvg-logo="https://imagizer.imageshack.com/img924/2981/xvXCNE.png" group-title="🇹🇷", S-SPORT 2 HD
+#EXTINF: -1 tvg-id="ssport2.tr" tvg-name="TR| S-SPORT 2 HD" tvg-logo="https://imagizer.imageshack.com/img924/2981/xvXCNE.png" group-title="🇹🇷", ♨️S-SPORT 2 HD
 #EXTGRP:🇹🇷
 http://103.161.34.2:8080/live/eEdCALdwG6fQ/q8Mjv8jYrB6367sh/277909.m3u8
 #EXTINF:-1 tvg-name="♨️BEIN MOVIES TURK" tvg-logo="https://app.playlistbox.com/icon/5YDKwr2BqLzpgZeaanZVW8J7GyvOXld6.png" group-title="🇹🇷", ♨️BEIN MOVIES TURK
