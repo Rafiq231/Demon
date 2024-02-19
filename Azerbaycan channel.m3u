@@ -1170,9 +1170,6 @@ http://213.172.73.170:8081/nimble_live/1065__Mat4_Futbol_2/playlist.m3u8
 #EXTINF:-1 tvg-name="⚕️МАТЧ! ФУТБОЛ 3" tvg-logo="https://app.playlistbox.com/icon/0B7b8PKO54QkGZ6KWGoNEqAYzmrVWyjg.png" group-title="⚽", ⚕️МАТЧ! ФУТБОЛ 3
 #EXTGRP:⚽
 http://213.172.73.171:8081/nimble_live/1159__Mat4_Futbol_3/playlist.m3u8
-#EXTINF:-1 tvg-name="⚕️МАТЧ! СТРАНА" tvg-logo="https://app.playlistbox.com/icon/lRXp9zJO7B0WeZ1bwQo68y35DwQnGrjA.png" group-title="⚽", ⚕️МАТЧ! СТРАНА
-#EXTGRP:⚽
-http://213.172.73.170:8081/nimble_live/1068__Mat4_Nash_Sport/playlist.m3u8
 #EXTINF:-1 tvg-name="⚕️МАТЧ! ТВ" tvg-logo="https://app.playlistbox.com/icon/8aNGL5kdnv361goad6ZXVmPjYb7BWK4E.png" group-title="⚽", ⚕️МАТЧ! ТВ
 #EXTGRP:⚽
 http://213.172.73.170:8081/nimble_live/1064__Mat4_ТВ/playlist.m3u8
