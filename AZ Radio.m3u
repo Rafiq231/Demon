@@ -1,0 +1,37 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.onlineradiobox.com/img/l/4/44154.v8.png" group-title="", 106.3 FM
+https://stream.atv.az/WebRTCAppEE/streams/517878792239218486180700.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.onlineradiobox.com/img/l/4/105564.v11.png" group-title="", Space Radio
+http://5.191.241.101:8000/spaceradio
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.onlineradiobox.com/img/l/8/79948.v8.png" group-title="", Ictimai Radio
+https://stream.itv.az/rtmp:/radio/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.onlineradiobox.com/img/l/1/43011.v12.png" group-title="", Media FM
+https://icecast.livetv.az/mediafm
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mediafm.az/wp-content/uploads/2023/11/jazzfm.png" group-title="", Media FM Jazz
+https://icecast.livetv.az/mediajazz
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mediafm.az/wp-content/uploads/2023/12/mugamfm.png" group-title="", Media FM Muğam
+https://icecast.livetv.az/mediamugam
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.onlineradiobox.com/img/l/7/121057.v3.png" group-title="", Yurd FM
+https://icecast.livetv.az/yurdfm
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mediafm.az/wp-content/uploads/2023/12/classic-1.png" group-title="", Radio YSF
+https://icecast.livetv.az/yusif
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.onlineradiobox.com/img/l/0/78100.v19.png" group-title="", Radio TMB
+https://s39.myradiostream.com/:5458/listen.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.onlineradiobox.com/img/l/7/43137.v14.png" group-title="", Autolife Azerbaijan
+https://radio.autoliferadio.com:8005/radio
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.onlineradiobox.com/img/l/4/77974.v9.png" group-title="", Araz FM
+https://s14.myradiostream.com/30454/listen.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.onlineradiobox.com/img/l/6/72256.v11.png" group-title="", Avto 107.7 FM 
+http://5.191.241.101:8000/avtofm
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.onlineradiobox.com/img/l/0/43010.v4.png" group-title="", Asan Radio
+https://play.asanradio.az/
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.onlineradiobox.com/img/l/8/42988.v12.png" group-title="", Radio Enerji 101.1 FM
+https://icecast.livetv.az/antennfm
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.onlineradiobox.com/img/l/1/121721.v1.png" group-title="", Baku Retro FM
+http://5.191.241.101:8000/bakuretrofm
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.onlineradiobox.com/img/l/5/87585.v9.png" group-title="", Xəzər 103 FM
+http://s40.myradiostream.com/22546/listen.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://kepezfm.az/themes/fm/logo_20yanvar_2022.png" group-title="", Kəpəz FM
+http://85.132.78.122:3344/now
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.onlineradiobox.com/img/l/8/43228.v16.png" group-title="", Azərbaycan Radiosu
+https://str.yodacdn.net/radio_respublica/tracks-a1/mono.m3u8
