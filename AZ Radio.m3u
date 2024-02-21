@@ -1,6 +1,8 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.onlineradiobox.com/img/l/4/44154.v8.png" group-title="", 106.3 FM
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.onlineradiobox.com/img/l/4/44154.v8.png" group-title="", 106.3 FM (Video)
 https://stream.atv.az/WebRTCAppEE/streams/517878792239218486180700.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.onlineradiobox.com/img/l/4/44154.v8.png" group-title="", 106.3 FM
+https://audiostr.atv.az/106.3fm
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.onlineradiobox.com/img/l/4/105564.v11.png" group-title="", Space Radio
 http://5.191.241.101:8000/spaceradio
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.onlineradiobox.com/img/l/8/79948.v8.png" group-title="", Ictimai Radio
