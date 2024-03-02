@@ -1119,15 +1119,9 @@ http://hls127.homeiptv.org:8880/BCUPremiere1HD/video.m3u8
 #EXTINF:-1 tvg-name="⚕️BCU Кинозал Premiere 2 HD" tvg-logo="https://app.playlistbox.com/icon/mGYXlVJ1Da0RjxXDevxzy8dek2wvP5gW.png" group-title="🇷🇺", ⚕️BCU Кинозал Premiere 2 HD
 #EXTGRP:🇷🇺
 http://hls127.homeiptv.org:8880/BCUPremiere2HD/video.m3u8
-#EXTINF:-1 tvg-name="⚕️BCU Кинозал Peemiere 3 HD" tvg-logo="https://app.playlistbox.com/icon/mGYXlVJ1Da0RjxXDevxzy8dek2wvP5gW.png" group-title="🇷🇺", ⚕️BCU Кинозал Peemiere 3 HD
-#EXTGRP:🇷🇺
-http://hls127.homeiptv.org:8880/BCUPremiere3HD/video.m3u8
 #EXTINF:-1 timeshift="0" tvg-name="⚜️Şahdağ live camera 4" tvg-logo="https://i.postimg.cc/hPqDKrcb/image-processing20210911-12028-qkcrx1.jpg" group-title="🇦🇿", ⚜️Şahdağ live camera 4
 #EXTGRP:🇦🇿
 https://user85481.clients-cdnnow.ru/hls/user85481_4/index.m3u8
-#EXTINF:-1 tvg-name="⚕️KLI Comedy HD" tvg-logo="https://app.playlistbox.com/icon/K8XYmkqA6jOWBxPaW6MDE1bQl3R4Gyan.png" group-title="🇷🇺", ⚕️KLI Comedy HD
-#EXTGRP:🇷🇺
-http://hls127.homeiptv.org:8880/klicomedi/video.m3u8
 #EXTINF:-1 tvg-name="⚕️KLI Family HD" tvg-logo="https://app.playlistbox.com/icon/LqEygb36eAPXvx4XNexw1B4J20a7VGdn.png" group-title="🇷🇺", ⚕️KLI Family HD
 #EXTGRP:🇷🇺
 http://hls127.homeiptv.org:8880/klifamily/video.m3u8
